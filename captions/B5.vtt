@@ -1,0 +1,2564 @@
+WEBVTT
+
+NOTE Automatic English transcription of the course recording.
+
+00:00:00.000 --> 00:00:08.000
+Hi, welcome to topic B5, current and circuits.
+This is quite a long video tutorial, so please
+don't be put off by it.
+
+00:00:08.000 --> 00:00:15.000
+I tend to go into these concepts a little bit
+deeper and start from the very beginning because
+some of them can be quite abstract.
+
+00:00:15.000 --> 00:00:22.000
+But the same method applies for step one, master
+the majority. Download the learning objectives
+below.
+
+00:00:22.000 --> 00:00:28.000
+Tick the learning objectives that you're
+comfortable with and circle those that you're
+unsure of.
+
+00:00:28.000 --> 00:00:33.000
+Head to the section in the tutorial where you can
+learn more about those you're unsure of.
+
+00:00:33.000 --> 00:00:39.000
+Of course I'll tell you what to write in your
+revision note template and I've prepared some
+questions for you below.
+
+00:00:39.000 --> 00:00:45.000
+I call them knowledge questions to help you
+consolidate the concepts before we move on to
+step two.
+
+00:00:45.000 --> 00:00:51.000
+Okay, let's get started with topic B5, current
+and circuits.
+
+00:00:51.000 --> 00:00:56.000
+It's important we understand two terms very
+clearly in our minds.
+
+00:00:56.000 --> 00:01:01.000
+The first term is Electromotive Force, EMF.
+
+00:01:01.000 --> 00:01:11.000
+Now if we imagine a circuit, what we have here is
+a cell and electrons then travel around the
+circuit.
+
+00:01:11.000 --> 00:01:20.600
+What this cell does is it gives each electron or
+each unit of charge a certain amount of electric
+energy
+
+00:01:20.600 --> 00:01:25.600
+and you can imagine these electrons carrying this
+energy around the circuit.
+
+00:01:25.600 --> 00:01:33.160
+At any stage in the circuit where an electron or
+charge is given energy, that is known as
+
+00:01:33.160 --> 00:01:34.160
+an EMF.
+
+00:01:34.160 --> 00:01:42.560
+And in fact, the definition of an EMF,
+Electromotive Force, is when the charges gain
+electrical
+
+00:01:42.560 --> 00:01:49.640
+energy from a power supply, and it's defined as
+the energy transfer per unit charge.
+
+00:01:49.640 --> 00:01:56.040
+So E or EMF is equal to energy given per unit
+charge, and it's got units of volts.
+
+00:01:56.040 --> 00:02:04.620
+A potential difference is also a voltage, but you
+can imagine that once these electrons,
+
+00:02:04.620 --> 00:02:11.740
+or once this charge is given energy, it deposits
+its energy or it uses up its energy at this
+
+00:02:11.740 --> 00:02:18.380
+stage here and travels back to the battery to get
+more energy again. So instead of gaining energy,
+
+00:02:18.380 --> 00:02:24.460
+which it happens here, it loses energy. And this
+is known as potential difference. And in fact,
+
+00:02:24.460 --> 00:02:30.940
+the definition of potential differences.
+Potential difference V is when the charge loses
+electrical
+
+00:02:30.940 --> 00:02:36.140
+energy to a component. It's also defined as the
+energy transfer per unit charge and has the
+
+00:02:36.140 --> 00:02:43.260
+formula V equals E over Q. It also has units of
+volts. So let's get your revision note template
+
+00:02:43.260 --> 00:02:48.620
+out and start with an easy one. Write down the
+definitions of EMF and potential difference
+
+00:02:48.620 --> 00:02:54.300
+in your revision note template. So the next
+learning objective is about electric current
+
+00:02:54.300 --> 00:03:00.300
+And it's known that the charge carriers within a
+metal are electrons,
+
+00:03:00.300 --> 00:03:04.460
+but they may be ions within other materials.
+
+00:03:04.460 --> 00:03:07.820
+We think of electric current as electrons flowing
+around
+
+00:03:07.820 --> 00:03:13.660
+a wire and we are correct. But electric current
+
+00:03:13.660 --> 00:03:19.660
+is not just about electrons, it's basically a
+flow of charge carriers.
+
+00:03:19.660 --> 00:03:23.660
+And those charge carriers vary depending on what
+material you're looking at.
+
+00:03:24.300 --> 00:03:28.540
+So if we take for example below me you can see a
+solution.
+
+00:03:29.100 --> 00:03:32.540
+There's positive ions and negative ions in that
+solution.
+
+00:03:33.340 --> 00:03:39.340
+If we pop a cathode and an anode in that solution
+and turn on the power,
+
+00:03:41.100 --> 00:03:46.380
+the positive ions are going to be attracted to
+the anode
+
+00:03:46.380 --> 00:03:52.020
+and the negative ions are going to be attracted
+to the cathode. They're not
+
+00:03:52.020 --> 00:03:57.480
+electrons they're just positive and negative ions
+but by doing that by being
+
+00:03:57.480 --> 00:04:04.620
+attracted to those cathodes and anodes there's a
+flow of charge. An electric
+
+00:04:04.620 --> 00:04:09.500
+current is defined as a flow of charge so when
+you're looking at an electrolyte
+
+00:04:09.500 --> 00:04:17.300
+or a solution, then the current is a flow of
+charge and it's usually ions. If we
+
+00:04:17.300 --> 00:04:24.680
+then go to a solid like metal, the charge
+carriers are electron. They flow the
+
+00:04:24.680 --> 00:04:29.280
+charge around the circuit. So an electric current
+there is a flow of charge and it
+
+00:04:29.280 --> 00:04:37.650
+happens to be electrons that carry that circuit
+round, that current round. Total
+
+00:04:37.650 --> 00:04:45.090
+charge on charge character the total charge on
+charge carriers is quantized
+
+00:04:45.090 --> 00:04:50.730
+based on the elementary charge so there's no
+value of charge that can be
+
+00:04:50.730 --> 00:04:56.370
+smaller than the charge on an electron which is
+1.6 times 10 to the minus 19
+
+00:04:56.370 --> 00:05:03.890
+kilo ohms so any value of charge in the whole
+world must be a multiple of that
+
+00:05:03.890 --> 00:05:08.930
+number and that's what quantized means. You can't
+just have any old number of
+
+00:05:08.930 --> 00:05:14.610
+coulombs as a charge, it has to be a multiple of
+this basic element of
+
+00:05:14.610 --> 00:05:22.410
+charge E. So the charge on any ion in an
+electrolyte below would be an integer
+
+00:05:22.410 --> 00:05:30.450
+multiple of E. So it would be 1E, 2E, 3E, 4E, 5E,
+700E whatever and electrons in a
+
+00:05:30.450 --> 00:05:36.330
+solid all carry the same negative electron charge
+and that is minus e so
+
+00:05:36.330 --> 00:05:44.430
+every electron carries that one one e charge but
+it's a minus value. Free
+
+00:05:44.430 --> 00:05:52.230
+electrons are the charge carriers and I can't say
+charge carriers try again free
+
+00:05:52.230 --> 00:05:57.210
+electrons are the charge carriers in a metal
+conductor and they move randomly
+
+00:05:57.210 --> 00:06:01.230
+at high speeds so these little electrons you can
+see you can imagine
+
+00:06:01.230 --> 00:06:03.350
+Imagine, right, they're tiny, okay?
+
+00:06:03.350 --> 00:06:06.270
+Imagine yourself at a concert
+
+00:06:06.270 --> 00:06:09.590
+and you are the size of an ant.
+
+00:06:09.590 --> 00:06:12.310
+And everyone at the concert is normal size
+
+00:06:12.310 --> 00:06:15.070
+and they're like dancing about
+
+00:06:15.070 --> 00:06:17.430
+and you are trying to get past them all.
+
+00:06:17.430 --> 00:06:19.050
+That's what an electron does.
+
+00:06:19.050 --> 00:06:22.150
+It darts back and forth trying to get past
+
+00:06:22.150 --> 00:06:25.670
+these massive other molecules, copper molecules
+
+00:06:25.670 --> 00:06:28.430
+or whatever the wire is made out of.
+
+00:06:28.430 --> 00:06:33.430
+and they move randomly, darting about at very
+high speeds.
+
+00:06:35.030 --> 00:06:37.930
+But actually as a collective body,
+
+00:06:37.930 --> 00:06:40.670
+they drift in one direction.
+
+00:06:40.670 --> 00:06:42.730
+And that's what the electric current is.
+
+00:06:42.730 --> 00:06:45.430
+But that drift, as they drift towards,
+
+00:06:45.430 --> 00:06:46.430
+because they're all negative
+
+00:06:46.430 --> 00:06:49.110
+and they drift towards the positive terminal,
+
+00:06:49.110 --> 00:06:52.430
+that drift is very, very slow.
+
+00:06:52.430 --> 00:06:55.230
+So meanwhile, inside there, they're all going
+like this,
+
+00:06:55.230 --> 00:06:57.450
+darting about at very high speeds.
+
+00:06:57.450 --> 00:07:01.730
+The whole body is drifting along at a slow speed.
+
+00:07:01.730 --> 00:07:05.730
+And you'd be surprised how slowly that speed is.
+
+00:07:05.730 --> 00:07:07.910
+I'll reveal it in a moment.
+
+00:07:10.260 --> 00:07:13.220
+But as we're talking about electric current
+
+00:07:13.220 --> 00:07:15.980
+as a rate of flow of charge,
+
+00:07:15.980 --> 00:07:19.100
+we need to start to bring in this term rate
+
+00:07:19.100 --> 00:07:22.360
+and how it relates to time.
+
+00:07:22.360 --> 00:07:24.660
+Because whenever you see the word rate,
+
+00:07:24.660 --> 00:07:29.660
+like rate of energy or rate of flow of charge,
+
+00:07:30.920 --> 00:07:33.100
+you need to divide it by time.
+
+00:07:33.100 --> 00:07:35.200
+So we looked at the flow of charge,
+
+00:07:35.200 --> 00:07:39.240
+we now need to divide that by time to recognize
+current.
+
+00:07:39.240 --> 00:07:42.080
+So electric current is the amount of charge
+
+00:07:42.080 --> 00:07:45.000
+that moves through the cross-sectional area of a
+wire
+
+00:07:45.000 --> 00:07:46.920
+per unit time.
+
+00:07:46.920 --> 00:07:49.380
+Would I memorize that definition?
+
+00:07:49.380 --> 00:07:54.380
+No, I'd probably memorize the definition above at
+the top
+
+00:07:54.380 --> 00:07:58.220
+that says current is the rate of flow of charge.
+
+00:07:58.220 --> 00:08:00.220
+It's easier and it means the same thing.
+
+00:08:00.220 --> 00:08:03.620
+Okay, so I've told you three or four definitions
+
+00:08:03.620 --> 00:08:04.740
+to memorize so far.
+
+00:08:04.740 --> 00:08:06.620
+This one make it easy for yourself.
+
+00:08:06.620 --> 00:08:08.500
+Electric current is the rate of flow of charge.
+
+00:08:08.500 --> 00:08:10.100
+Boom, job done.
+
+00:08:10.100 --> 00:08:14.040
+Okay, electric current is defined
+
+00:08:14.040 --> 00:08:15.920
+as the rate of flow of charge.
+
+00:08:15.920 --> 00:08:19.280
+We're looking at the rate of change
+
+00:08:19.280 --> 00:08:22.480
+and what we define I as current is
+
+00:08:22.480 --> 00:08:27.240
+is the change in charge divided by the change in
+time.
+
+00:08:27.240 --> 00:08:29.880
+So that's why we've got those two delta signs on
+there.
+
+00:08:29.880 --> 00:08:33.050
+So do with the rate of flow.
+
+00:08:33.050 --> 00:08:35.330
+Charge is a scalar.
+
+00:08:35.330 --> 00:08:36.330
+Time is a scalar.
+
+00:08:36.330 --> 00:08:38.250
+So it makes natural sense that current
+
+00:08:38.250 --> 00:08:40.330
+would be a scalar as well.
+
+00:08:40.330 --> 00:08:41.770
+The unit of current is the ampere.
+
+00:08:41.770 --> 00:08:44.250
+And I don't think that's a surprise to anybody.
+
+00:08:44.250 --> 00:08:48.330
+And the ampere is a fundamental SI unit,
+
+00:08:48.330 --> 00:08:51.850
+which is important that you know that.
+
+00:08:51.850 --> 00:08:58.570
+One amp could also be expressed as one kilo ohm
+per second because if you look at the formula
+here
+
+00:08:58.570 --> 00:09:04.410
+we've got coulombs or charge over time so
+coulombs over seconds. So you could say that one
+amp is
+
+00:09:04.410 --> 00:09:10.730
+equivalent to one coulomb per second. Great now
+we have a concept of current in our head let's
+
+00:09:10.730 --> 00:09:16.650
+write down the definition of current as a rate of
+flow of charge. Let's write down the formulae
+
+00:09:16.650 --> 00:09:22.610
+for current as I equals the change in Q over the
+change in T. Go to your common diagram
+
+00:09:22.610 --> 00:09:29.450
+section and draw the solution with the ions
+flowing around it to demonstrate current and
+
+00:09:29.450 --> 00:09:34.330
+complete questions 1 to 3 in B5 knowledge
+questions.
+
+00:09:34.330 --> 00:09:38.450
+We're now going to look at something called
+static electricity. We're going to look at
+
+00:09:38.450 --> 00:09:44.810
+its effect in everyday life and how it's
+produced. Let's start at the very basics.
+
+00:09:44.810 --> 00:09:49.210
+we look at the representation of an atom here
+you'll notice that we have
+
+00:09:49.210 --> 00:09:55.210
+negative charge that resides on electrons. These
+are the little electrons
+
+00:09:55.210 --> 00:10:00.970
+here, the green things. The electrons are much
+lighter than the things in the
+
+00:10:00.970 --> 00:10:07.690
+middle. And the things in the middle are
+nucleons, nucleons, i.e. things that are in
+
+00:10:07.690 --> 00:10:13.970
+the nucleus, either protons or neutrons. And in
+this case I'm really only
+
+00:10:13.970 --> 00:10:23.610
+interested in the protons, they reside inside the
+nucleus and they are very
+
+00:10:23.610 --> 00:10:29.730
+heavy in comparison to the electrons. The
+electrons are much lighter and they're
+
+00:10:29.730 --> 00:10:35.330
+easier to move. So when we're looking at solids
+and we're looking at the movement
+
+00:10:35.330 --> 00:10:39.610
+of charge, it makes sense that the electrons are
+the ones that are going to
+
+00:10:39.610 --> 00:10:45.170
+added or taken away from atoms and then move
+across the solid because they've
+
+00:10:45.170 --> 00:10:52.330
+got less ties holding them in. Whereas the
+protons or positive ions are really
+
+00:10:52.330 --> 00:10:57.490
+held quite tightly inside this nucleus and it
+makes it difficult for them to
+
+00:10:57.490 --> 00:11:04.210
+move. So when we rub a surface and we have two
+objects here, a polythene rod
+
+00:11:04.210 --> 00:11:13.210
+and a cloth of silk. When we rub those two
+together, what happens is frictional
+
+00:11:13.210 --> 00:11:19.150
+forces start coming in to play and those
+frictional forces between the cloth and
+
+00:11:19.150 --> 00:11:26.970
+the rod, it removes the electrons from the silk
+and because those electrons can
+
+00:11:26.970 --> 00:11:35.170
+freely move, they move onto the polythene rod and
+what that means is there's less
+
+00:11:35.170 --> 00:11:45.470
+electrons on the silk and there's more electrons
+on the polythene rod so the
+
+00:11:45.470 --> 00:11:53.630
+silk becomes positively charged and the polythene
+rod becomes negatively charged
+
+00:11:53.630 --> 00:11:59.990
+and that's all due to frictional forces causing
+the electrons to move from one
+
+00:11:59.990 --> 00:12:07.360
+point to another. The types of materials that
+will allow this to happen are
+
+00:12:07.360 --> 00:12:13.040
+categorized into three different sections.
+Conductors. Conductors are
+
+00:12:13.040 --> 00:12:17.040
+materials with many free electrons which can flow
+easily and a good
+
+00:12:17.040 --> 00:12:20.400
+conductor is a metal and we've seen that when we
+studied just electrical
+
+00:12:20.400 --> 00:12:26.880
+circuits. Insulators are materials that have very
+few free electrons and cannot
+
+00:12:26.880 --> 00:12:33.720
+easily flow and we're looking here at plastic,
+glass and wood and semiconductors
+
+00:12:33.720 --> 00:12:40.600
+are materials that will insulate when pure but
+will conduct when an impurity
+
+00:12:40.600 --> 00:12:44.600
+is added in so in response to heat or light and
+we're looking at things like
+
+00:12:44.600 --> 00:12:49.160
+silicone and germanium for that. Okay let's head
+to your revision note
+
+00:12:49.160 --> 00:12:54.360
+template and take some time to write down the
+difference between conductors,
+
+00:12:54.360 --> 00:12:58.880
+insulators and semiconductors but do that in
+terms of what we've just talked
+
+00:12:58.880 --> 00:13:05.060
+about, the mobility of charges, which ones are
+moving, which ones are not. This new
+
+00:13:05.060 --> 00:13:11.160
+specification doesn't give any required
+practicals but in my mind this is a
+
+00:13:11.160 --> 00:13:17.120
+required practical. There are characteristics of
+three components
+
+00:13:17.120 --> 00:13:20.080
+that you need to know in this specification.
+
+00:13:20.080 --> 00:13:22.240
+And these three components are a metal wire
+
+00:13:22.240 --> 00:13:27.240
+at a constant temperature, a filament lamp, and a
+diode.
+
+00:13:27.280 --> 00:13:29.040
+And what we want to know about these components
+
+00:13:29.040 --> 00:13:33.680
+is how does the current vary as the voltage vary?
+
+00:13:33.680 --> 00:13:36.640
+And we call these characteristics,
+
+00:13:36.640 --> 00:13:38.840
+we call it the IV characteristics.
+
+00:13:38.840 --> 00:13:41.920
+And we ultimately end up plotting a graph
+
+00:13:41.920 --> 00:13:45.400
+for each component showing how the current
+
+00:13:45.400 --> 00:13:50.520
+current views with voltage. And it's done in a
+very common practical that you probably
+
+00:13:50.520 --> 00:13:54.560
+would have done in school. So I'm going to walk
+you through the practical now, and I'm
+
+00:13:54.560 --> 00:14:00.760
+going to walk you through what these
+characteristics look like for each of these three
+components.
+
+00:14:00.760 --> 00:14:06.120
+So we've got our source here, which is a variable
+power supply. And you don't know the kind
+
+00:14:06.120 --> 00:14:09.920
+I mean, the ones you get in your lab and you plug
+them in and you can put them to
+
+00:14:09.920 --> 00:14:16.220
+any value you like. But you could equally have a
+cell or a battery here as well. We
+
+00:14:16.220 --> 00:14:23.080
+have connectors which are wires and we call them
+four millimeter wires and
+
+00:14:23.080 --> 00:14:28.200
+that's to do with the size of their connections
+at the end. We have an ammeter
+
+00:14:28.200 --> 00:14:37.080
+in series with the circuit that means it's inside
+the big loop and then we
+
+00:14:37.080 --> 00:14:41.160
+have our component and this component here is
+either the filament bulb, the
+
+00:14:41.160 --> 00:14:47.900
+fixed resistor or the diode and we have our
+voltmeter which measures the
+
+00:14:47.900 --> 00:14:52.820
+potential difference across the component and
+that piggybacks over the
+
+00:14:52.820 --> 00:15:00.500
+component and finally we have a variable resistor
+and you can see apart from the
+
+00:15:00.500 --> 00:15:07.160
+voltmeter, they're all in one series circuit. And
+what we do is we set this
+
+00:15:07.160 --> 00:15:11.960
+circuit up and we insert the component we're
+going to investigate. So for
+
+00:15:11.960 --> 00:15:16.040
+example we'll start with fixed resistor number
+one. So where it says component
+
+00:15:16.040 --> 00:15:22.180
+will pop in our fixed resistor, then we'll vary
+the potential difference
+
+00:15:22.180 --> 00:15:29.340
+across the component by adjusting the variable
+resistor and we'll set up a
+
+00:15:29.340 --> 00:15:32.780
+And our table will look like this,
+
+00:15:32.780 --> 00:15:34.220
+and we'll have voltage on this side,
+
+00:15:34.220 --> 00:15:36.460
+or potential difference on this side,
+
+00:15:36.460 --> 00:15:37.980
+and current on that side.
+
+00:15:37.980 --> 00:15:40.440
+And we'll write down what the voltage is,
+
+00:15:40.440 --> 00:15:43.380
+and what the associated current is.
+
+00:15:43.380 --> 00:15:45.000
+And we'll have six different values,
+
+00:15:45.000 --> 00:15:48.380
+at least six different values for our table.
+
+00:15:49.260 --> 00:15:52.440
+And then what we'll do is we'll swap
+
+00:15:52.440 --> 00:15:54.080
+the power supply round.
+
+00:15:54.080 --> 00:16:03.080
+So instead of having a plus here and a minus
+here, we'll swap the players' pry around so we
+have a minus here and a plus there.
+
+00:16:03.080 --> 00:16:18.080
+And why would we do that? Well, we do that so
+that when we plot our graph, we have a positive
+side of the graph and a negative side of the
+graph.
+
+00:16:18.080 --> 00:16:28.240
+And what this quadrant graph really means is, is
+on this side and this bit here, the
+
+00:16:28.240 --> 00:16:33.420
+resistor is fixed to the source the other way
+around.
+
+00:16:33.420 --> 00:16:38.080
+That's all that means when we have that negative
+side of the graph.
+
+00:16:38.080 --> 00:16:42.640
+When we look at the fixed resistor and we plot
+our table out into the graph, what we
+
+00:16:42.640 --> 00:16:56.990
+notice is there is a straight line through the
+origin.
+
+00:16:56.990 --> 00:17:05.510
+characteristic of the graph of a fixed resistor,
+you could say that V is
+
+00:17:05.510 --> 00:17:11.050
+proportional to I because it's a straight line
+through the origin. And
+
+00:17:11.050 --> 00:17:17.390
+what this becomes an example of is something
+called Ohm's law, which we met
+
+00:17:17.390 --> 00:17:25.170
+previously V equals I R. This says that V is
+proportional to I as long as
+
+00:17:25.170 --> 00:17:29.770
+resistance is constant. And this only happens in
+a fixed resistor when the
+
+00:17:29.770 --> 00:17:35.290
+temperature is constant as well. So this graph
+here is the graph you need to
+
+00:17:35.290 --> 00:17:42.650
+remember for a fixed resistor. The I-V
+characteristics are straight line through
+
+00:17:42.650 --> 00:17:49.090
+the origin which shows that resistance is
+constant and that V is proportional
+
+00:17:49.090 --> 00:17:54.570
+to I. It's an example of an ohmic conductor. This
+graph is going to be
+
+00:17:54.570 --> 00:17:58.470
+really important to you and that's all you need
+to remember about that. And in a
+
+00:17:58.470 --> 00:18:01.910
+moment we'll get to the common graph section of
+our revision notes and we'll pop that in.
+
+00:18:01.910 --> 00:18:08.310
+A filament bulb. If we just chat a little bit
+about a filament bulb. Filament bulb
+
+00:18:08.310 --> 00:18:12.750
+looks like these that are shown on the screen and
+they've got a filament in
+
+00:18:12.750 --> 00:18:18.570
+them and this is a high resistance wire and when
+you put current through this
+
+00:18:18.570 --> 00:18:26.730
+high resistance wire, it heats up and it causes
+heat and light to be emitted. If
+
+00:18:26.730 --> 00:18:33.170
+we look at this close-up down here, when
+something heats up, these are little
+
+00:18:33.170 --> 00:18:38.290
+copper atoms, these green things, these copper
+atoms when they heat up, they're
+
+00:18:38.290 --> 00:18:48.010
+going to vibrate around their equilibrium and the
+hotter they get, the
+
+00:18:48.010 --> 00:18:51.290
+the more they vibrate, they vibrate wildly.
+
+00:18:51.290 --> 00:18:55.830
+Now could you imagine if you're a lonely little
+electron
+
+00:18:55.830 --> 00:19:00.130
+trying to get past, trying to carry the charge as
+a current
+
+00:19:00.130 --> 00:19:04.330
+and these atoms are vibrating wildly,
+
+00:19:04.330 --> 00:19:06.710
+it would be super difficult, wouldn't it?
+
+00:19:06.710 --> 00:19:11.710
+So that means that when the temperature of a wire
+
+00:19:13.790 --> 00:19:18.790
+increases, the resistance to current
+
+00:19:19.390 --> 00:19:24.990
+increases as well and that has a significant
+effect on what the IV
+
+00:19:24.990 --> 00:19:30.750
+characteristic graph of a filament bulb looks
+like. Let's go to that graph now.
+
+00:19:30.750 --> 00:19:38.830
+This is what the IV characteristic graph of a
+filament bulb looks like. You can
+
+00:19:38.830 --> 00:19:47.830
+see it's kind of an S shape. It does not follow
+Ohm's law. That's because V is not
+
+00:19:47.830 --> 00:19:56.900
+proportional to I. It's not a nice straight line
+through the origin and if
+
+00:19:56.900 --> 00:20:01.460
+it doesn't follow Ohm's law it means it's not an
+ohmic conductor. In fact it's a
+
+00:20:01.460 --> 00:20:06.920
+non-ohmic conductor and if we consider some
+values here let's say that at this
+
+00:20:06.920 --> 00:20:15.060
+stage V is equal to 2 and let's say I is equal to
+3, right? And at this stage
+
+00:20:15.060 --> 00:20:22.460
+here let's say v is equal to 4 and i is equal to
+not quite as big as that is it's not quite
+
+00:20:22.460 --> 00:20:36.740
+as double so 5 then you can see that 2 over 3 is
+0.66 and 4 over 5 is 0.8 that signifies
+
+00:20:36.740 --> 00:20:44.860
+the resistance because r equals v over i and as
+you take values up this s you can see
+
+00:20:44.860 --> 00:20:56.420
+that the resistance increases of a filament bulb
+as you increase the current and the voltage.
+
+00:20:56.420 --> 00:21:02.260
+So a characteristic of a filament bulb that's
+shown by the IV characteristic graph is that
+
+00:21:02.260 --> 00:21:08.220
+the resistance increases as the current increases
+and that is due to the increased heat of
+
+00:21:08.220 --> 00:21:09.820
+a filament wire.
+
+00:21:09.820 --> 00:21:18.230
+The final component that we need to be very
+comfortable with is the diode.
+
+00:21:18.230 --> 00:21:23.230
+This is the basic symbol for a diode. You might
+also see it like this.
+
+00:21:23.230 --> 00:21:36.890
+Circle around it. And if it's a light emitting
+diode, you'll see it like this with two arrows
+going out of it.
+
+00:21:36.890 --> 00:21:44.350
+And that signifies the light being emitted.
+
+00:21:44.350 --> 00:21:48.670
+One of the key symbols of this diode is this
+straight line here.
+
+00:21:48.670 --> 00:21:54.670
+I always use that to remind myself that current
+is blocked in one direction.
+
+00:21:54.670 --> 00:22:00.660
+And let's have a think what that means.
+
+00:22:00.660 --> 00:22:03.860
+Let's look at the graph for a diode.
+
+00:22:04.900 --> 00:22:11.060
+I current voltage characteristic graph looks like
+this.
+
+00:22:11.940 --> 00:22:13.140
+Can you see the green line?
+
+00:22:13.140 --> 00:22:20.580
+you can see here that let's say let's take a
+value here let's say V at this
+
+00:22:20.580 --> 00:22:29.340
+stage is say V is equal to minus 10 and I is
+equal to 0 R is equal to V over I
+
+00:22:29.340 --> 00:22:37.800
+which is minus 10 divided by 0 a number divided
+by 0 is infinity so in one
+
+00:22:37.800 --> 00:22:47.160
+direction for a diode it has infinite resistance.
+A characteristic graph shows
+
+00:22:47.160 --> 00:22:53.040
+that when it's wired up in one direction the
+resistance of a diode is infinite and
+
+00:22:53.040 --> 00:22:57.760
+that means that no current flows. So a diode can
+only allow current in one
+
+00:22:57.760 --> 00:23:02.660
+direction. Let's have a look on this side now.
+You can see at this point here
+
+00:23:02.660 --> 00:23:14.910
+until what we call the threshold voltage. It also
+has infinite resistance. It's a value of V
+divided
+
+00:23:14.910 --> 00:23:22.430
+by zero. But we get to the threshold voltage and
+what happens is suddenly that resistance goes to
+
+00:23:22.430 --> 00:23:29.070
+zero ohms. Current can very very easily flow
+through that point. So on the other side of
+
+00:23:29.070 --> 00:23:34.430
+the diode when it's connected up the right way,
+the resistance quickly changes to zero in the
+
+00:23:34.430 --> 00:23:42.990
+the other direction and current can flow. We can
+see that V is not proportional to
+
+00:23:42.990 --> 00:23:50.630
+I so it does not follow Ohm's law and it is a
+non-ohmic conductor. That has flown
+
+00:23:50.630 --> 00:23:56.990
+through the IV characteristic graphs of the fixed
+resistor, the filament bulb and
+
+00:23:56.990 --> 00:24:02.430
+the diode and what I'd like you to do is go to
+your revision notes. I'd like you
+
+00:24:02.430 --> 00:24:18.480
+to draw your IV characteristic graphs for each
+resistor at constant temperature.
+
+00:24:18.480 --> 00:24:30.860
+And I'd like you to just annotate it. So
+resistance is constant, V is proportional
+
+00:24:30.860 --> 00:24:32.700
+and I and it's omik.
+
+00:24:33.980 --> 00:24:38.220
+And then do your filament bulb, so your S shape,
+
+00:24:38.220 --> 00:24:42.220
+I, A, V, V,
+
+00:24:42.220 --> 00:24:43.620
+and this is a filament bulb.
+
+00:24:43.620 --> 00:24:45.840
+You know the score.
+
+00:24:45.840 --> 00:24:49.940
+You go and fill out this part of your revision
+notes
+
+00:24:49.940 --> 00:24:51.180
+in the common graph.
+
+00:24:51.180 --> 00:24:53.580
+I would like to see a graph for each of the three
+
+00:24:53.580 --> 00:24:56.180
+components with a little bit of annotation
+
+00:24:56.180 --> 00:24:58.440
+as to what happens to the resistance
+
+00:24:58.440 --> 00:25:02.640
+and whether it's an ohmic or a non-ohmic
+conductor.
+
+00:25:02.640 --> 00:25:04.560
+You've heard me using the phrase ohmic
+
+00:25:04.560 --> 00:25:06.020
+and non-ohmic conductors
+
+00:25:06.020 --> 00:25:08.420
+when we were talking about these components.
+
+00:25:08.420 --> 00:25:09.880
+It's important for you to understand
+
+00:25:09.880 --> 00:25:14.440
+that the term ohmic conductor comes from Ohm's
+law.
+
+00:25:14.440 --> 00:25:15.840
+And you don't really know Ohm's law yet,
+
+00:25:15.840 --> 00:25:17.800
+so let's go on and have a look at it.
+
+00:25:18.940 --> 00:25:20.800
+Let's think about current.
+
+00:25:20.800 --> 00:25:23.720
+And we've got a very funny little diagram here.
+
+00:25:23.720 --> 00:25:26.760
+What this diagram, this part of the diagram
+
+00:25:26.760 --> 00:25:34.760
+supposed to represent is a component. So for
+example a bulb. You can see that
+
+00:25:34.760 --> 00:25:42.270
+there's a figure pulling that rope tighter around
+the component and it's
+
+00:25:42.270 --> 00:25:47.110
+making it very tricky for the current to get
+through or a green figure to get
+
+00:25:47.110 --> 00:25:51.310
+through and that's exactly what resistance is. If
+you increase
+
+00:25:51.310 --> 00:26:00.430
+resistance it makes it trickier for the current
+to get through and the
+
+00:26:00.430 --> 00:26:09.140
+current decreases but what does the potential
+difference do? What does the
+
+00:26:09.140 --> 00:26:14.780
+energy and the voltage do? Well the voltage helps
+push the current through
+
+00:26:14.780 --> 00:26:20.820
+the component and the greater that pushes, the
+greater the voltage is, so if
+
+00:26:20.820 --> 00:26:25.060
+we increase our potential difference then the
+more chance that the current
+
+00:26:25.060 --> 00:26:30.860
+has to get through. So if we increase the
+potential difference and we write
+
+00:26:30.860 --> 00:26:36.480
+PD for potential difference and then that means
+we increase current because it
+
+00:26:36.480 --> 00:26:42.580
+gives a greater push. You might even see that V
+is proportional to I so that means as V
+
+00:26:42.580 --> 00:26:49.740
+increases, I increases and that certainly seems
+to be the case. And those two
+
+00:26:49.740 --> 00:26:54.700
+relationships that have been observed were
+identified by Georges Ohm who is a
+
+00:26:54.700 --> 00:27:03.420
+German scientist and he came up with Ohm's law
+and Ohm's law is otherwise known to you as V
+equals I R
+
+00:27:03.420 --> 00:27:11.660
+and it's really important that you're able to use
+this formula. V stands for potential difference
+or voltage
+
+00:27:11.660 --> 00:27:17.180
+you use those terms interchangeably you might
+sometimes see its potential difference
+
+00:27:17.180 --> 00:27:22.780
+you might sometimes see it as voltage. And it has
+units of volts.
+
+00:27:22.780 --> 00:27:30.620
+I stands for current and it has units of amperes.
+And R stands for resistance
+
+00:27:30.620 --> 00:27:35.580
+which has units of ohms which is the greek sign
+
+00:27:35.580 --> 00:27:40.920
+for omega. Practice drawing that if you like.
+
+00:27:40.920 --> 00:27:44.520
+You need to know this formula and you need to
+remember the units for it.
+
+00:27:44.520 --> 00:27:51.320
+Please, can I just note that it is not acceptable
+to write V equals A like that?
+
+00:27:51.320 --> 00:27:53.200
+That is not your formula, okay?
+
+00:27:53.200 --> 00:27:54.680
+That is your units.
+
+00:27:54.680 --> 00:27:57.360
+You cannot write a formula in terms of units.
+
+00:27:57.360 --> 00:28:00.960
+Your formula should always be V equals I R.
+
+00:28:01.960 --> 00:28:05.920
+It's time for you to head to your revision note
+template and write down in the
+
+00:28:05.920 --> 00:28:11.600
+definition section the definition of resistance
+as R equals V over I.
+
+00:28:11.600 --> 00:28:15.840
+is one of the very few definitions that's
+actually defined using a formula.
+
+00:28:15.840 --> 00:28:21.040
+So your resistance is defined as R equals voltage
+over current.
+
+00:28:21.040 --> 00:28:27.520
+Go to your definition section again and write
+down the definition of Ohm's law.
+
+00:28:27.520 --> 00:28:32.480
+And then finally go to your knowledge questions
+that you can find below
+
+00:28:32.480 --> 00:28:35.360
+and complete questions 4 to 7.
+
+00:28:35.360 --> 00:28:39.600
+I'm bringing one of the final learning objectives
+in this topic forward a bit.
+
+00:28:39.600 --> 00:28:41.920
+I feel like it fits in better here.
+
+00:28:41.920 --> 00:28:48.400
+We've just talked about how current and voltage
+varies with three components.
+
+00:28:48.400 --> 00:28:52.800
+We've got our metal at a constant wire, our
+filament bulb, and an LED,
+
+00:28:52.800 --> 00:28:54.800
+which is a light emitting diode.
+
+00:28:55.360 --> 00:28:57.920
+We also looked at the concept of resistance
+
+00:28:57.920 --> 00:29:01.280
+and how resistance is defined as voltage divided
+by current.
+
+00:29:02.400 --> 00:29:06.080
+I'd like to look at two further components here.
+
+00:29:06.080 --> 00:29:08.560
+I'd like to look at thermistors and light-
+dependent resistors.
+
+00:29:08.560 --> 00:29:15.680
+LDR is a light dependent resistor. Please don't
+get it mixed up with an LED. It's a
+
+00:29:15.680 --> 00:29:22.280
+different thing. And these components change the
+way they act depending on
+
+00:29:22.280 --> 00:29:26.880
+their resistance. So we're gonna dive into these
+right now. Moving on to the
+
+00:29:26.880 --> 00:29:29.480
+heating effects of current because I'm sure
+you've touched an electrical wire
+
+00:29:29.480 --> 00:29:33.880
+before and thought, oh that's hot. Okay and it is
+hot and there's a reason for
+
+00:29:33.880 --> 00:29:37.920
+that. Because if you imagine what current
+actually is, it's free electrons,
+
+00:29:37.920 --> 00:29:45.160
+and those free electrons are traveling between
+the metal ions and in a copper
+
+00:29:45.160 --> 00:29:51.840
+wire it would be copper ions okay or copper
+atoms. As these electrons push
+
+00:29:51.840 --> 00:30:00.800
+past the ions of the copper atoms they cause them
+to vibrate and when an atom
+
+00:30:00.800 --> 00:30:07.720
+or a particle has kinetic energy it heats up. So
+placing a current through a
+
+00:30:07.720 --> 00:30:13.880
+a wire causes it to heat up and you can see that
+when you look at a light bulb
+
+00:30:13.880 --> 00:30:20.640
+because a light bulb is basically a wire, a
+nichrome wire this is, and it's got
+
+00:30:20.640 --> 00:30:25.240
+really high resistance which means that the
+electrons are bashing about those
+
+00:30:25.240 --> 00:30:29.380
+copper atoms or or the nichrome atoms loads which
+means it heats up and in
+
+00:30:29.380 --> 00:30:35.540
+fact it heats up so much that it lights up it
+glows and that's how an
+
+00:30:35.540 --> 00:30:39.740
+old-fashioned light bulb work. But the exact
+opposite happens in these wires.
+
+00:30:39.740 --> 00:30:43.740
+These wires are made of copper, the electrons go
+through them but it's got a
+
+00:30:43.740 --> 00:30:49.420
+low resistance which means that the electrons
+flow through easier. So whilst
+
+00:30:49.420 --> 00:30:55.100
+these copper atoms do vibrate just not as much as
+those in the night chrome so it
+
+00:30:55.100 --> 00:31:00.420
+doesn't get as hot and it doesn't light up. We
+can use this for great stuff. How
+
+00:31:00.420 --> 00:31:04.300
+do you think your toaster works? Your toaster has
+a current flowing through a
+
+00:31:04.300 --> 00:31:09.080
+a high resistance wire, the high resistance wire
+heats up and lights up. How do you think
+
+00:31:09.080 --> 00:31:14.220
+an electric fire works? A current goes through a
+high resistance wire, the high resistance
+
+00:31:14.220 --> 00:31:19.440
+wire heats up and lights up. How do you think
+your hair dryer works? A current goes through
+
+00:31:19.440 --> 00:31:24.520
+a high resistance wire, the high resistance wire
+heats up and a fan blows it out. Older
+
+00:31:24.520 --> 00:31:29.640
+light bulbs. Here we go. A current goes through a
+high resistance wire, the high resistance
+
+00:31:29.640 --> 00:31:36.760
+wire heats up and lights up. A grille! Here we
+go! A current goes through a high resistance
+wire,
+
+00:31:36.760 --> 00:31:42.680
+the high resistance wire heats up and lights up
+and finally the iron. A current goes through
+
+00:31:42.680 --> 00:31:50.120
+a high resistance wire and the iron heats up and
+allows you to have a nice ironed shirt.
+
+00:31:50.920 --> 00:31:58.120
+We're now going to look at a different component
+and this component is a thermistor and our
+
+00:31:58.120 --> 00:32:02.920
+learning objective says we have to be able to
+explain the characteristics and
+
+00:32:02.920 --> 00:32:09.320
+uses of a thermistor. Let's get on that straight
+away. There is a suggested
+
+00:32:09.320 --> 00:32:14.560
+practical thermistor and basically what this
+practical does is it takes the
+
+00:32:14.560 --> 00:32:21.700
+thermistor which is a small green thing, pops in
+some water and attaches the
+
+00:32:21.700 --> 00:32:26.080
+thermistor to something called an ohmeter. You
+could take your common
+
+00:32:26.080 --> 00:32:30.680
+multi-meter in your class and you can pop it to
+the ohms setting and you can
+
+00:32:30.680 --> 00:32:34.680
+actually attach it to any object and it will tell
+you what the resistance of that
+
+00:32:34.680 --> 00:32:39.840
+object is. Now if we pop the thermistor into this
+hot water and we gradually
+
+00:32:39.840 --> 00:32:44.720
+increase the temperature of the water we can find
+out what the value of
+
+00:32:44.720 --> 00:32:50.360
+temperature of the thermistor is and the
+associated resistance of the temperature
+
+00:32:50.360 --> 00:32:55.320
+and what we would do is we'd have a table like
+this, we'd have temperature on
+
+00:32:55.320 --> 00:33:00.200
+this side and we'd have resistance on this side
+and we'd change the temperature.
+
+00:33:00.200 --> 00:33:05.160
+So let's say we start off at 10 degrees and then
+20 and then 30 and we'd write down the
+
+00:33:05.160 --> 00:33:13.300
+associated temperature as we went along. So we'd
+increase the temperature and
+
+00:33:13.300 --> 00:33:19.460
+measure the resistance as we went along. And what
+we'd find is we plot a graph.
+
+00:33:19.460 --> 00:33:24.540
+We'd have the temperature on the x-axis because
+that's the variable we're
+
+00:33:24.540 --> 00:33:29.020
+changing and we'd have resistance on the y-axis
+and our graph would look like
+
+00:33:29.020 --> 00:33:40.100
+our graph would be inversely proportional. That
+means as temperature
+
+00:33:40.100 --> 00:33:47.980
+increases it is inversely proportional to
+resistance. As temperature increases
+
+00:33:47.980 --> 00:33:52.460
+the resistance of the thermistor decreases.
+Before we talk about the uses
+
+00:33:52.460 --> 00:33:57.740
+of a thermistor I'd just like to remind you the
+circuit symbol of the thermistor
+
+00:33:57.740 --> 00:34:02.580
+you can see here that it's a very clear resistor
+underneath which is your
+
+00:34:02.580 --> 00:34:10.320
+square box then the varied the diagonal line
+means to vary and this little bit
+
+00:34:10.320 --> 00:34:15.560
+here is the thermistor end of it so a thermistor
+is basically a resistor with
+
+00:34:15.560 --> 00:34:21.360
+a variable component on it to show it is a
+thermistor. Now the uses of a
+
+00:34:21.360 --> 00:34:26.480
+thermistor basically any object that relies on
+the temperature varying so if
+
+00:34:26.480 --> 00:34:30.600
+If you imagine your house, you might have a
+thermostat and you only want your heating
+
+00:34:30.600 --> 00:34:36.560
+to go on a certain temperature, well there would
+be a thermistor inside your thermostat.
+
+00:34:36.560 --> 00:34:42.400
+If you are driving the car and you need to know
+the temperature outside, because maybe
+
+00:34:42.400 --> 00:34:48.400
+it's a freezing temperature, then you would find
+a thermistor in your car dashboard.
+
+00:34:48.400 --> 00:34:49.400
+And a fire alarm.
+
+00:34:49.400 --> 00:34:52.000
+A fire alarm works with two sensors.
+
+00:34:52.000 --> 00:34:56.080
+It works with a smoke sensor and it works with a
+heat sensor.
+
+00:34:56.080 --> 00:35:00.560
+So your fire alarm will have a thermistor in it
+as well.
+
+00:35:00.560 --> 00:35:07.440
+If we go to our revision notes, we want to
+include this learning objective in our revision
+
+00:35:07.440 --> 00:35:10.600
+notes and I think we should go to the common
+graph section.
+
+00:35:10.600 --> 00:35:19.440
+We should plot our graph, temperature, Celsius,
+resistance, and ohms.
+
+00:35:19.440 --> 00:35:32.120
+ourselves that this is a thermistor and then I
+put three uses thermostat, car
+
+00:35:32.120 --> 00:35:46.690
+dashboard and fire alarm. Job done. We have one
+further component that we need
+
+00:35:46.690 --> 00:35:51.890
+to be able to explain the characteristics and
+uses of and this is
+
+00:35:51.890 --> 00:36:04.370
+of an LDR which stands for light dependent
+resistor. So it's a resistor that
+
+00:36:04.370 --> 00:36:11.930
+varies depending on how much light is incident on
+it. Let's have a look. Wow,
+
+00:36:11.930 --> 00:36:16.790
+wait a minute, I recognize this graph. It looks
+exactly the same as a thermistor.
+
+00:36:16.790 --> 00:36:20.990
+The only thing that's different is on a
+thermistor on the x-axis we had
+
+00:36:20.990 --> 00:36:28.910
+temperature and on the x-axis for an LDR we have
+light and what it shows is for a
+
+00:36:28.910 --> 00:36:34.510
+light dependent resistor as light intensity
+increases the resistant
+
+00:36:34.510 --> 00:36:39.710
+decreases. It's exactly the same relationship we
+saw with a thermistor.
+
+00:36:39.710 --> 00:36:48.070
+The light intensity is inversely proportional to
+resistance. Let's have a
+
+00:36:48.070 --> 00:36:55.430
+little look at the circuit symbol. Well we have
+the resistor element to it, this box,
+
+00:36:55.430 --> 00:37:01.910
+and we have a varied amount of lights as we have
+diagonal lines and these little arrows
+
+00:37:01.910 --> 00:37:08.990
+show light entering the resistor. So a light
+dependent resistor. Where would we find a
+
+00:37:08.990 --> 00:37:16.670
+light dependent resistor? Well it's any circuit
+or any system that relies on something switching
+
+00:37:16.670 --> 00:37:21.230
+on or off depending on the amount of light. So a
+security light, you might want a light to go on
+
+00:37:21.230 --> 00:37:26.910
+when it gets dark but as it gets to a certain
+amount of darkness a security light would switch
+
+00:37:26.910 --> 00:37:34.670
+on. Similarly with street lights in your street
+they are all working through the use of an LDR.
+
+00:37:35.230 --> 00:37:41.390
+And interestingly a digital camera uses an LDR
+because what the LDR does is it measures the
+
+00:37:41.390 --> 00:37:46.590
+the amount of light that enters through the lens
+and it calculates the size of
+
+00:37:46.590 --> 00:37:51.790
+the flash to use to make sure you get the best
+picture on your camera. So a
+
+00:37:51.790 --> 00:37:57.390
+digital camera has an LDR inside it as well. When
+it comes to the revision notes
+
+00:37:57.390 --> 00:38:02.430
+it's gonna be very similar to our thermistor.
+We're going to pop resistance
+
+00:38:02.430 --> 00:38:09.510
+up here, light. You don't need to know the units
+of light that it looks.
+
+00:38:09.510 --> 00:38:12.350
+Inversely, a proportional graph.
+
+00:38:12.350 --> 00:38:14.070
+Let's remind ourselves that's an LDR.
+
+00:38:14.070 --> 00:38:15.910
+And then let's put some uses.
+
+00:38:15.910 --> 00:38:23.310
+So digital camera and security light.
+
+00:38:23.430 --> 00:38:27.850
+Just to remind ourselves, we are done.
+
+00:38:27.850 --> 00:38:30.870
+So far in this topic, we've looked at a lot of
+concepts,
+
+00:38:30.870 --> 00:38:34.190
+but I've really only introduced two equations to
+you.
+
+00:38:34.190 --> 00:38:36.130
+And you'll notice in the data booklet,
+
+00:38:36.130 --> 00:38:39.230
+there are loads more equations, okay?
+
+00:38:39.230 --> 00:38:44.910
+So the next part of this tutorial is just really
+looking at the equations you might expect to use
+
+00:38:44.910 --> 00:38:52.830
+when solving current and circuit problems. The
+energy equation 1 is E equals
+
+00:38:54.030 --> 00:39:03.230
+p t, E equals p times t or pet as I remember it
+so pet like that and it sort of links to this
+
+00:39:03.230 --> 00:39:08.510
+triangle here. You have to remember it correctly
+because if you remember it like this then it's
+
+00:39:08.510 --> 00:39:15.150
+obviously wrong. Don't remember that! Remember it
+in the right form. Energy equals power times
+
+00:39:15.150 --> 00:39:24.430
+time. Energy has units of joules and it's a
+little j. Power has units of watts and time has
+units of
+
+00:39:24.430 --> 00:39:32.750
+seconds. It is worth noting that you might
+sometimes see energy denoted as w and the reason
+
+00:39:32.750 --> 00:39:40.110
+we might see that is because work done, which is
+our W, is equal to energy
+
+00:39:41.070 --> 00:39:48.270
+transferred. So you might see W equals PT but
+more likely for it to be E.
+
+00:39:50.110 --> 00:39:58.270
+The second energy equation is E equals QV. Let's
+go back to the first one. You can see the first
+
+00:39:58.270 --> 00:40:02.510
+equation you can find out the energy in an
+electrical appliance if you know the
+
+00:40:02.510 --> 00:40:06.630
+power and the time of the electrical appliance.
+But you might not know the
+
+00:40:06.630 --> 00:40:11.470
+power or you might not know how long it's being
+applied for. So if you've got
+
+00:40:11.470 --> 00:40:15.310
+other information like if you know the charge of
+the appliance or the voltage
+
+00:40:15.310 --> 00:40:18.190
+of the appliance or the potential difference to
+the appliance you can
+
+00:40:18.190 --> 00:40:24.790
+find the energy in a different way. And the
+equation is E equals QV. E again
+
+00:40:24.790 --> 00:40:30.750
+stands for energy as units of joules. You might
+see W at this stage so it would be
+
+00:40:30.750 --> 00:40:35.970
+W equals QV. It means the same thing. Like I said
+before, it's work done is
+
+00:40:35.970 --> 00:40:40.150
+equal to energy transferred. Q stands for charge
+as units of
+
+00:40:40.150 --> 00:40:45.670
+coulombs and V stands for potential difference
+which has units of volts.
+
+00:40:45.670 --> 00:40:55.990
+Power equation 1. PIV. P equals IV. You can find
+out what the power of an appliance is
+
+00:40:55.990 --> 00:41:02.230
+if you know the current and you know the voltage.
+Potential difference is our V and it has units
+
+00:41:02.230 --> 00:41:10.150
+of volts. Current is our I and it has units of
+amperes. And power is our P and it has
+
+00:41:10.150 --> 00:41:16.750
+units of watts. The second power equation is say
+you have some information
+
+00:41:16.750 --> 00:41:22.290
+about an appliance but you don't know what the
+voltage is. Well you can't use
+
+00:41:22.290 --> 00:41:27.850
+PIV to find the power if you don't know what the
+voltage is but you might know
+
+00:41:27.850 --> 00:41:33.550
+the resistance. So instead of using PIV you'd use
+our second power equation
+
+00:41:33.550 --> 00:41:40.170
+which is P equals I squared R. We know what P is,
+we've just talked about that,
+
+00:41:40.170 --> 00:41:43.990
+that's power and has units of watts. We know what
+current is, we've just talked
+
+00:41:43.990 --> 00:41:49.710
+about that, that's current and has units of
+amperes. R is resistance and has units
+
+00:41:49.710 --> 00:41:57.150
+of ohms. First of all, the four things inside
+this equation are time and as
+
+00:41:57.150 --> 00:42:02.770
+always that is given in seconds. Potential
+difference, potential difference
+
+00:42:02.770 --> 00:42:10.010
+is a fancy but the correct word for voltage. It
+has units of volts, current which is units
+
+00:42:10.010 --> 00:42:18.650
+of amperes or amps as we mostly say, and energy,
+E which has units of joules. As I said before
+
+00:42:18.650 --> 00:42:24.290
+this equation here is the one you need to
+memorise but it actually comes from the equation
+
+00:42:24.290 --> 00:42:32.370
+for power P equals IV and that's the equation for
+power you'd use in an electrical circuit.
+
+00:42:32.370 --> 00:42:43.240
+Do you also remember that pet power equals energy
+over time?
+
+00:42:43.240 --> 00:42:48.240
+Which means that energy equals power times time.
+
+00:42:48.240 --> 00:42:54.240
+And instead of power in there, let's put IV in
+there because power equals IV.
+
+00:42:54.240 --> 00:42:57.240
+So E equals I, E, T.
+
+00:42:57.240 --> 00:43:00.240
+That's where this equation comes from.
+
+00:43:00.240 --> 00:43:03.240
+This equation for energy is only for electrical
+circuits.
+
+00:43:03.240 --> 00:43:07.240
+Well, that's obvious when we can't find the
+voltage of a person, can't we?
+
+00:43:07.240 --> 00:43:10.000
+We can't find the current of a tree.
+
+00:43:10.000 --> 00:43:18.080
+So this equation here is to find out the energy
+of an electrical appliance, E equals I V T.
+
+00:43:18.080 --> 00:43:24.000
+If you're uncomfortable rearranging it, you can
+use this rearrange in triangle here,
+
+00:43:24.000 --> 00:43:30.000
+just as a little warning, the examined boards
+don't really love these equation triangles.
+
+00:43:30.000 --> 00:43:36.520
+no idea why, but that's just the prerogative I
+suppose. So if you wanted to find V, you
+
+00:43:36.520 --> 00:43:45.160
+place your finger over V and what you'd see is
+you'd have E divided by I T. We've gone
+
+00:43:45.160 --> 00:43:50.000
+through a number of equations that will allow you
+to analyse electric circuits. It's now
+
+00:43:50.000 --> 00:43:55.300
+time to put some of that into practice. I put
+some easy knowledge questions below and
+
+00:43:55.300 --> 00:44:00.400
+their questions 8 to 13. We'll start with them
+and then we'll see in step 2
+
+00:44:00.400 --> 00:44:05.280
+activate the application how they are then
+integrated into exam style
+
+00:44:05.280 --> 00:44:09.480
+questions. This next learning objective is
+something that a lot of students seem
+
+00:44:09.480 --> 00:44:13.600
+to struggle with so I'm going to really break it
+down into the simplest
+
+00:44:13.600 --> 00:44:18.400
+terms possible. The learning objective is to
+describe the difference between
+
+00:44:18.400 --> 00:44:23.620
+parallel and series circuits. Let's start with a
+series circuit because
+
+00:44:23.620 --> 00:44:29.860
+that's super simple. So there are three things
+that we want to identify inside a series circuit
+
+00:44:29.860 --> 00:44:34.340
+and find out what the rules are. The first
+element about a series circuit I'm interested in
+
+00:44:34.340 --> 00:44:40.340
+is the current. What's the rule for the current
+inside a series circuit? Well let's suggest that
+
+00:44:40.340 --> 00:44:51.420
+we took an ammeter and measured the current
+there. Let's see it was two amps and we took an
+ammeter
+
+00:44:51.420 --> 00:44:59.020
+and we measured current here, so I2, that would
+also be 2 amps. Let's say we took an
+
+00:44:59.020 --> 00:45:06.980
+ammeter and measured the current here, that would
+also be 2 amps. No matter where you
+
+00:45:06.980 --> 00:45:15.460
+measure current on a series circuit, it's always
+the same. So the first rule of a series
+
+00:45:15.460 --> 00:45:22.500
+circuit to do with current is that current is the
+same everywhere. We're now going to look at
+
+00:45:22.500 --> 00:45:30.660
+resistance. The total resistance of the circuit
+is a simple sum of the resistors within the
+circuit.
+
+00:45:30.660 --> 00:45:41.060
+So let's say that R1 is equal to 10 ohms and R2
+is equal to 20 ohms. Then the total resistance,
+
+00:45:41.060 --> 00:45:51.380
+their second rule, RT is equal to R1 plus R2. So
+in this case, the total resistance would be
+
+00:45:51.380 --> 00:45:59.060
+really simple sum of 10 plus 20, which is 30
+ohms. If we increase the resistance inside a
+series
+
+00:45:59.060 --> 00:46:03.940
+circuit, what that has the effect of doing is
+reducing the current. It makes it harder for
+
+00:46:03.940 --> 00:46:09.940
+the current to go through. The final quantity
+we're interested in is potential difference or
+voltage.
+
+00:46:09.940 --> 00:46:14.500
+you might use a term voltage. I would say this
+sort of technically correct term is potential
+
+00:46:14.500 --> 00:46:18.820
+difference but it doesn't really matter. And the
+rule for potential difference is that the
+
+00:46:18.820 --> 00:46:25.380
+potential difference across each component adds
+up to the total voltage supplied by the cell.
+
+00:46:25.940 --> 00:46:36.530
+So if this was 9 volts, then the voltage across
+this plus the voltage across this
+
+00:46:36.530 --> 00:46:40.970
+This has to add up to 9 volts.
+
+00:46:40.970 --> 00:46:43.530
+Now in this case, this would be 6 volts
+
+00:46:43.530 --> 00:46:44.530
+and that would be 3 volts.
+
+00:46:44.530 --> 00:46:47.130
+And I will explain that to you in a moment.
+
+00:46:47.130 --> 00:46:52.130
+But V2, Vt is equal to V1 plus V2.
+
+00:46:55.150 --> 00:46:58.250
+These three rules here make up our rules
+
+00:46:58.250 --> 00:47:02.690
+of a series circuit.
+
+00:47:02.690 --> 00:47:05.030
+Whenever you're dealing with questions
+
+00:47:05.030 --> 00:47:08.030
+to do with series circuits and you have to
+calculate
+
+00:47:08.030 --> 00:47:11.150
+the resistance or the voltage across the resistor
+and so on,
+
+00:47:11.150 --> 00:47:13.230
+you can always use Ohm's law.
+
+00:47:13.230 --> 00:47:16.690
+Please always do bear this in mind.
+
+00:47:16.690 --> 00:47:20.830
+There's also a handy little ratio that you can
+remember.
+
+00:47:20.830 --> 00:47:23.350
+And basically what the ratio is,
+
+00:47:23.350 --> 00:47:27.190
+is that the potential difference, this value up
+here,
+
+00:47:27.190 --> 00:47:29.350
+is shared out between the components
+
+00:47:29.350 --> 00:47:32.030
+based on the resistance of each component.
+
+00:47:32.030 --> 00:47:34.670
+So if this resistor here, R2,
+
+00:47:34.670 --> 00:47:38.150
+is three times the size of resistor one,
+
+00:47:38.150 --> 00:47:41.350
+then it receives three times the voltage share
+
+00:47:41.350 --> 00:47:42.830
+of resistor one.
+
+00:47:42.830 --> 00:47:44.670
+And let me give you an example of that.
+
+00:47:44.670 --> 00:47:48.170
+Let's say the total voltage given out by the cell
+
+00:47:48.170 --> 00:47:50.270
+is eight volts.
+
+00:47:51.350 --> 00:47:56.350
+Well, this R2 would receive three times more
+voltage
+
+00:47:57.550 --> 00:48:00.270
+than R1 because it's got three times more
+resistance
+
+00:48:00.270 --> 00:48:01.250
+than R1.
+
+00:48:01.250 --> 00:48:04.010
+So V2 would be six volts.
+
+00:48:04.670 --> 00:48:07.310
+and V1 would be 2 votes.
+
+00:48:07.310 --> 00:48:11.870
+And we can see that 6 plus 2 equals 8,
+
+00:48:11.870 --> 00:48:16.270
+but we can also see that V2 is 3 times more than
+V1.
+
+00:48:16.270 --> 00:48:18.430
+I'll give you another example. Let's get rid of
+these numbers.
+
+00:48:18.430 --> 00:48:22.430
+Let's say that R1 is 5 ohms
+
+00:48:22.430 --> 00:48:26.830
+and R2 is 25 ohms.
+
+00:48:26.830 --> 00:48:33.390
+And let's say, for example, that Vt power supply
+is 12 volts.
+
+00:48:33.390 --> 00:48:44.670
+Well R2 is five times bigger than R1, which means
+the voltage across R2 has to be five times bigger
+
+00:48:44.670 --> 00:48:52.110
+than the voltage across R1. So if we say that the
+voltage across this is 10 volts
+
+00:48:53.390 --> 00:49:00.670
+and the voltage across this is 2 volts, 10 plus 2
+is equal to 12 so that adds up,
+
+00:49:00.670 --> 00:49:08.830
+but also 10 is 5 times greater than 2. It becomes
+a bit easier to do problems if you
+
+00:49:08.830 --> 00:49:16.110
+do consider with a series circuit the ratio of
+sizes of resistance equals the ratio of
+
+00:49:16.110 --> 00:49:21.390
+sizes of voltage and that makes things a little
+bit easier for you to work through.
+
+00:49:21.390 --> 00:49:25.790
+Let's now have a look at the parallel circuit and
+just like before we've got three rules
+
+00:49:25.790 --> 00:49:31.470
+one for current, one for resistance and one for
+potential difference. Let's start with current.
+
+00:49:31.470 --> 00:49:37.310
+When the current goes through a parallel circuit,
+this is the direction of conventional current
+
+00:49:37.310 --> 00:49:40.750
+we're going, so it's not the actual way the
+electrons are going, but don't worry about that
+
+00:49:40.750 --> 00:49:49.390
+just now. Let's say we have 10 amps leaves cell
+and it gets to this point here, this branch here,
+
+00:49:49.390 --> 00:49:54.270
+and it either goes that way or it goes that way.
+
+00:49:54.270 --> 00:50:01.440
+And what happens is, at this point here, the
+current splits,
+
+00:50:01.440 --> 00:50:04.960
+and a percentage or a portion of the 10 amps
+
+00:50:04.960 --> 00:50:14.270
+goes through branch 1, and a proportion of the
+current goes through branch 2.
+
+00:50:14.270 --> 00:50:20.430
+And let's say R1 is equal to 10 ohms and R2 is
+equal to 10 ohms. They're both the same.
+
+00:50:20.430 --> 00:50:28.030
+In which case, 5 amps would go this way and 5
+amps would go that way, because 10 split into 2
+is 5.
+
+00:50:28.030 --> 00:50:34.510
+And guess what happens when I get to this point
+here?
+
+00:50:34.510 --> 00:50:38.910
+And the total current goes back to 10 amps again.
+
+00:50:38.910 --> 00:50:53.310
+So for the current, our first rule is that the
+I.T., the total current, is equal to I1 plus I2
+
+00:50:53.310 --> 00:50:58.670
+and it goes back to being the total current
+again. So this is it as it leaves the cell,
+
+00:51:02.740 --> 00:51:13.280
+that's it in the branches and this is it as it
+goes back to the cell or supply whatever we're
+
+00:51:13.280 --> 00:51:19.560
+using there. The second thing we're interested in
+is resistance in a parallel circuit. Now
+
+00:51:19.560 --> 00:51:25.400
+do you remember in a series circuit the total
+resistance was equal to just two all the
+resistors
+
+00:51:25.400 --> 00:51:32.400
+added together and the effect had so that the
+more resistors we had, more resistors,
+
+00:51:32.400 --> 00:51:43.240
+the more resistance of the circuit. More
+resistance of circuit. Well that does not happen.
+
+00:51:43.240 --> 00:52:03.880
+in a parallel circuit. The weird thing, so the
+effect of resistors in parallel is
+
+00:52:03.880 --> 00:52:09.040
+to decrease the resistance of the circuit and
+what that has the effect of
+
+00:52:09.040 --> 00:52:14.880
+is increasing the current. So it's the exact
+opposite of what happens in a
+
+00:52:14.880 --> 00:52:21.280
+series circuit. And there is a formula for
+remembering resistors in parallel
+
+00:52:21.280 --> 00:52:26.040
+but you don't have to use it so don't write this
+down but there is a formula
+
+00:52:26.040 --> 00:52:29.600
+So when you get into sixth form, into IB or A
+level
+
+00:52:29.600 --> 00:52:31.240
+or whatever you choose to do,
+
+00:52:31.240 --> 00:52:33.040
+then you'll learn that formula.
+
+00:52:33.040 --> 00:52:35.400
+But right now, let's forget all about it.
+
+00:52:35.400 --> 00:52:38.640
+All you need to know about resistors in parallel
+
+00:52:38.640 --> 00:52:40.980
+is that as you add resistors,
+
+00:52:40.980 --> 00:52:42.600
+the resistance of the circuit decreases
+
+00:52:42.600 --> 00:52:44.080
+and it increases the current.
+
+00:52:44.080 --> 00:52:46.120
+The final quantity we're interested in
+
+00:52:46.120 --> 00:52:49.140
+is potential difference or voltage.
+
+00:52:49.140 --> 00:52:51.880
+Let's say that this circuit has a supply voltage
+
+00:52:51.880 --> 00:52:53.500
+of 12 volts.
+
+00:52:53.500 --> 00:53:03.720
+This branch, branch one, gets 12 volts and branch
+two gets 12 volts.
+
+00:53:04.360 --> 00:53:11.800
+Each branch in a parallel circuit gets the same
+amount of volts as the supply voltage.
+
+00:53:13.160 --> 00:53:22.680
+Vt equals V1 equals V2 equals Vt. Each branch
+gets the same amount of voltage as a supply
+
+00:53:22.680 --> 00:53:28.400
+voltage which is kind of cool. Just like with
+parallel circuits there is a ratio
+
+00:53:28.400 --> 00:53:31.920
+sum that you can do to make things easier and
+we're going to go back to
+
+00:53:31.920 --> 00:53:37.280
+thinking about current in a parallel circuit.
+Remember earlier I told you that
+
+00:53:37.280 --> 00:53:43.400
+the current gets to a branch and it splits up and
+either goes to branch one
+
+00:53:43.400 --> 00:53:49.280
+or two. Well the amount of current that goes into
+each branch really depends on
+
+00:53:49.280 --> 00:53:55.840
+resistor in each branch. Well as before if
+they're both the same resistance, so
+
+00:53:55.840 --> 00:54:01.320
+that's 10 ohms and that's 10 ohms, then the
+current would split equally 5 amps
+
+00:54:01.320 --> 00:54:07.200
+and 5 amps would go that way. However let's say
+we've got 12 amps going in
+
+00:54:07.200 --> 00:54:19.040
+here and let's say that this is a hundred ohms
+and this is 50 ohms. If
+
+00:54:19.040 --> 00:54:23.240
+If I was a current, I'd probably want to go
+through branch one because it would be easier.
+
+00:54:23.240 --> 00:54:25.240
+There's less resistance.
+
+00:54:25.240 --> 00:54:28.800
+But some would still go through R2 as well.
+
+00:54:28.800 --> 00:54:35.280
+Twice the amount of current we'd go through here
+because this is half the resistance of
+
+00:54:35.280 --> 00:54:36.640
+that one.
+
+00:54:36.640 --> 00:54:44.040
+So what we'd have on this branch is we'd have I1
+equals 8 amps.
+
+00:54:44.040 --> 00:54:50.940
+And down here on branch 2, what we'd have is I2
+equals 4 amps.
+
+00:54:50.940 --> 00:54:57.260
+And that's because the bar 2 is twice the amount
+of R1, so it gets half the amount of
+
+00:54:57.260 --> 00:54:58.760
+current.
+
+00:54:58.760 --> 00:55:04.300
+So the resistance in each branch will determine
+how much current passes through each branch.
+
+00:55:04.300 --> 00:55:10.560
+Now you can use V equals I R to work these things
+out with a formula, but if you're particularly
+
+00:55:10.560 --> 00:55:16.480
+mathematically minded then this ratio idea makes
+things a bit simpler.
+
+00:55:16.480 --> 00:55:21.480
+Let's head to your revision note template now and
+in the common diagram section add
+
+00:55:21.480 --> 00:55:25.000
+a series circuit and a parallel circuit.
+
+00:55:25.000 --> 00:55:29.040
+Annotate each diagram with the relationships
+shown in the data booklet and I've put them
+
+00:55:29.040 --> 00:55:31.120
+below here for you.
+
+00:55:31.120 --> 00:55:39.320
+Then head to question 14 and 15 in the knowledge
+questions that you can find downloaded below.
+
+00:55:39.320 --> 00:55:44.840
+objective 13 is all to do with internal
+resistance and we'll really dive into
+
+00:55:44.840 --> 00:55:48.400
+this concept here. I want to start with looking
+at something called supply
+
+00:55:48.400 --> 00:55:54.360
+voltage. So if you're looking at a supply voltage
+and this cell here has a
+
+00:55:54.360 --> 00:56:00.960
+supply voltage of 12 volts what's actually
+happening is that each unit of
+
+00:56:00.960 --> 00:56:10.220
+charge, each coulomb of charge is gaining 12
+joules of energy. That's not to say
+
+00:56:10.220 --> 00:56:14.660
+that each electron gets 12 joules of energy
+because in fact in one unit of
+
+00:56:14.660 --> 00:56:20.520
+charge, one coulomb, there are actually 6.25
+times 10 to the 18 electrons. So if we
+
+00:56:20.520 --> 00:56:26.140
+picture this 6.25 times 10 to the 18 electrons,
+that group of electrons
+
+00:56:26.140 --> 00:56:33.460
+receives 12 joules of energy. We now know what
+electromotive force and
+
+00:56:33.460 --> 00:56:39.100
+potential difference is. It's important for us to
+understand what internal
+
+00:56:39.100 --> 00:56:49.650
+resistance is. What the voltage quoted on a cell
+or a power supply, maybe 1.5 or 10
+
+00:56:49.650 --> 00:56:54.090
+volts or so on, but that's not the actual voltage
+that is supplied to the circuit
+
+00:56:54.090 --> 00:57:01.450
+because inside this cell there are chemicals and
+those chemicals pose a
+
+00:57:01.450 --> 00:57:09.410
+resistance to the current within it. Inside this
+power supply there are
+
+00:57:09.410 --> 00:57:14.570
+little wires and those little wires pose a
+resistance to the current flowing
+
+00:57:14.570 --> 00:57:20.330
+through it. Now this resistance has to be
+accounted for in calculations and if we
+
+00:57:20.330 --> 00:57:26.690
+look at a circuit diagram now, before we
+discovered the concept of internal
+
+00:57:26.690 --> 00:57:32.210
+resistance we used to simply have this cell
+circuit diagram and then our
+
+00:57:32.210 --> 00:57:38.450
+components but now we need to say well actually
+our power supply has a small
+
+00:57:38.450 --> 00:57:47.130
+resistor within it. So we can have what you might
+often see is a sort of outline of a
+
+00:57:47.130 --> 00:57:53.810
+cell or a battery and then the EMF supply within
+it where the energy is supplied and
+
+00:57:53.810 --> 00:58:01.090
+a small resistor shown inside it. This small
+resistor leads to a term called lost volts.
+
+00:58:01.090 --> 00:58:08.070
+Let's read through this. When a current flows
+through the circuit, so the battery here
+
+00:58:08.070 --> 00:58:11.950
+is producing energy and it's giving energy to the
+electrons.
+
+00:58:11.950 --> 00:58:14.030
+Those electrons are flowing through the circuit,
+
+00:58:14.030 --> 00:58:16.390
+through the external resistor,
+
+00:58:16.390 --> 00:58:20.350
+back around here, through the internal resistance
+
+00:58:20.350 --> 00:58:23.990
+and back to the cell where it's gonna pick up
+more energy.
+
+00:58:23.990 --> 00:58:25.910
+So when a current flows through the circuit,
+
+00:58:25.910 --> 00:58:28.790
+the charge will transfer some of its electrical
+energy
+
+00:58:28.790 --> 00:58:30.150
+to the internal resistor.
+
+00:58:31.270 --> 00:58:34.550
+So when a current goes through this internal
+resistor,
+
+00:58:34.550 --> 00:58:37.670
+it's going to take some of the voltage,
+basically.
+
+00:58:37.670 --> 00:58:40.470
+it's going to take some of the potential
+difference.
+
+00:58:40.470 --> 00:58:43.350
+And this voltage that's taken
+
+00:58:44.710 --> 00:58:47.370
+is not going to be able to be used up here.
+
+00:58:47.370 --> 00:58:50.430
+So that's lost volts, you can't use that.
+
+00:58:50.430 --> 00:58:53.510
+And we can find out the value of those lost
+volts, V,
+
+00:58:53.510 --> 00:58:56.310
+by using I, the current through the circuit times
+R,
+
+00:58:56.310 --> 00:58:58.550
+which is the value of the internal resistor.
+
+00:58:59.790 --> 00:59:02.210
+See this gives out 10 volts,
+
+00:59:02.210 --> 00:59:05.790
+and this internal resistance takes up one volt.
+
+00:59:05.790 --> 00:59:10.070
+That means that there's only 9 volts left for the
+rest of the components using the circuit.
+
+00:59:10.910 --> 00:59:14.390
+So the potential difference across the terminals
+of the power supply,
+
+00:59:14.390 --> 00:59:18.790
+and across the terminals I mean between here and
+here,
+
+00:59:18.790 --> 00:59:21.830
+will be less than the EMF of the supply
+
+00:59:21.830 --> 00:59:25.190
+because the voltage will be lost in internal
+resistance.
+
+00:59:25.190 --> 00:59:28.110
+So we can make up an equation that says V,
+
+00:59:28.110 --> 00:59:30.750
+which is the terminal potential difference,
+
+00:59:30.750 --> 00:59:35.110
+is equal to E, which is the energy going into the
+system,
+
+00:59:35.110 --> 00:59:42.550
+minus the lost volts lost in the internal
+resistor, which also equals IR.
+
+00:59:42.550 --> 00:59:47.630
+And that is born from the idea of the
+conservation of energy.
+
+00:59:47.630 --> 00:59:50.470
+Energy must be conserved within this circuit.
+
+00:59:50.470 --> 00:59:57.070
+So as the charge goes around the circuit, the sum
+of EMFs must equal the sum of potential
+
+00:59:57.070 --> 00:59:58.310
+differences.
+
+00:59:58.310 --> 01:00:06.140
+So the total energy into the system is E. It
+loses some of the charges lose energy at
+
+01:00:06.140 --> 01:00:10.340
+the terminal potential difference and they lose
+energy in the internal
+
+01:00:10.340 --> 01:00:15.020
+resistor. And what we're left with is this
+generic equation for internal
+
+01:00:15.020 --> 01:00:20.700
+resistance. Let's get some stuff written down in
+your revision notes now. In the
+
+01:00:20.700 --> 01:00:24.740
+common diagram section draw a circuit with the
+internal resistance
+
+01:00:24.740 --> 01:00:28.300
+highlighted within it so that would be the
+diagram that was in the previous
+
+01:00:28.300 --> 01:00:33.020
+slide. Write down the equation for internal
+resistance and then open up
+
+01:00:33.020 --> 01:00:37.940
+the knowledge questions below and complete
+questions 16 to 18.
+
