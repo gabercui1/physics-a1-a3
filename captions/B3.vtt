@@ -1,0 +1,1547 @@
+WEBVTT
+
+NOTE Automatic English transcription of the course recording.
+
+00:00:00.000 --> 00:00:08.320
+Hi, this is topic B3, gas laws. And we're going
+to delve into some very important, very famous
+
+00:00:08.320 --> 00:00:13.200
+physicist laws here. Boyle's law, Charles' law,
+the Galus-Sach law. And we're going to
+
+00:00:13.200 --> 00:00:18.400
+bring them all together to make something called
+the ideal gas equation. We'll also look at
+
+00:00:18.400 --> 00:00:23.840
+the difference between an ideal gas and a real
+gas. It's a great topic. For this topic, you
+
+00:00:23.840 --> 00:00:29.440
+are going to need? The learning objective
+checklist and that's the key of step one,
+
+00:00:29.440 --> 00:00:34.920
+master the majority in the four step success
+path. You need to assess what
+
+00:00:34.920 --> 00:00:38.600
+learning objectives you're really comfortable
+with in this checklist and
+
+00:00:38.600 --> 00:00:42.840
+give them a tick. Then have a look down and say
+okay what am I not sure of and
+
+00:00:42.840 --> 00:00:48.120
+circle those learning objectives. The ones that
+you're circled need to be the
+
+00:00:48.120 --> 00:00:51.380
+ones that you focus on the most because I'm not
+interested in what you
+
+00:00:51.380 --> 00:00:55.640
+already know I'm interesting what to develop, how
+to make your weaknesses
+
+00:00:55.640 --> 00:01:00.560
+stronger. So you're going to use this video
+tutorial to develop your
+
+00:01:00.560 --> 00:01:06.800
+weaknesses in the knowledge and the areas of
+content of B3 gas laws. You're
+
+00:01:06.800 --> 00:01:10.400
+gonna head to the relevant part of this video
+tutorial and watch the tutorial
+
+00:01:10.400 --> 00:01:15.020
+as I teach you that concept from scratch. And at
+the end of each section
+
+00:01:15.020 --> 00:01:19.740
+I'll tell you exactly what to write in your
+revision note template which of
+
+00:01:19.740 --> 00:01:24.440
+course you can download below. And finally I'll
+also instruct you which
+
+00:01:24.440 --> 00:01:28.320
+questions to do in the knowledge questions that
+are below as well. These
+
+00:01:28.320 --> 00:01:32.580
+knowledge questions are there to really make sure
+that you're consolidating the
+
+00:01:32.580 --> 00:01:40.500
+concepts as we learn them. Okay let's head into
+B3 gas laws. Kinetic theory
+
+00:01:40.500 --> 00:01:44.140
+sounds hard but actually it's not. You basically
+have to memorize six
+
+00:01:44.140 --> 00:01:48.660
+sentences. Actual examiner feedback. Candidates
+had trouble stating the
+
+00:01:48.660 --> 00:01:52.220
+the assumptions of the kinetic theory of an ideal
+gas.
+
+00:01:52.220 --> 00:01:53.060
+Well, do you know what?
+
+00:01:53.060 --> 00:01:54.620
+That is so simple because all you need to do
+
+00:01:54.620 --> 00:01:57.380
+is memorize these six statements.
+
+00:01:57.380 --> 00:02:01.220
+One, the molecules are perfectly elastic.
+
+00:02:01.220 --> 00:02:03.880
+What that means is, is that any time a molecule
+
+00:02:03.880 --> 00:02:05.900
+has a collision within a gas,
+
+00:02:05.900 --> 00:02:08.800
+it doesn't lose any kinetic energy.
+
+00:02:08.800 --> 00:02:11.260
+Two, the molecules are spheres.
+
+00:02:11.260 --> 00:02:13.800
+In real life, we know they are not spheres,
+
+00:02:13.800 --> 00:02:16.420
+but if we assume they are spheres,
+
+00:02:16.420 --> 00:02:19.260
+perfectly honest it makes our maths a lot easier.
+
+00:02:19.260 --> 00:02:22.860
+Three, the molecules are identical.
+
+00:02:22.860 --> 00:02:26.420
+Imagine you had a body of oxygen gas.
+
+00:02:26.420 --> 00:02:29.860
+You would then imagine lots of oxygen diatomic
+molecules
+
+00:02:29.860 --> 00:02:33.620
+bouncing around within this body of gas.
+
+00:02:33.620 --> 00:02:37.740
+In real life, it's practically impossible to have
+a pure gas.
+
+00:02:37.740 --> 00:02:40.460
+So not all the molecules would be identical.
+
+00:02:40.460 --> 00:02:44.600
+You might have some hydrogen in there or
+nitrogen.
+
+00:02:44.600 --> 00:02:48.000
+So we assume that the molecules are identical,
+
+00:02:48.000 --> 00:02:50.100
+but in real practice they are not.
+
+00:02:51.000 --> 00:02:52.720
+With kinetic theory, we also assume
+
+00:02:52.720 --> 00:02:55.240
+that there are no forces between the molecules,
+
+00:02:55.240 --> 00:02:56.560
+except when they collide.
+
+00:02:57.720 --> 00:02:59.200
+So this means that the molecules move
+
+00:02:59.200 --> 00:03:02.000
+with constant velocity between collisions.
+
+00:03:02.000 --> 00:03:05.360
+The fifth assumption is that the molecules are
+very small,
+
+00:03:06.220 --> 00:03:09.320
+meaning that their total volume is much, much,
+much,
+
+00:03:09.320 --> 00:03:11.400
+much smaller than the volume of the gas.
+
+00:03:11.400 --> 00:03:14.640
+their volume would be negligible in comparison
+
+00:03:14.640 --> 00:03:16.240
+to the volume of the gas.
+
+00:03:16.240 --> 00:03:19.000
+If a gas meets all these assumptions,
+
+00:03:19.000 --> 00:03:22.200
+then what we can see is the gas is an ideal gas.
+
+00:03:23.200 --> 00:03:26.720
+The conditions under which a real gas acts like
+an ideal gas
+
+00:03:27.780 --> 00:03:31.080
+is when the gas is at a low pressure,
+
+00:03:32.720 --> 00:03:35.860
+moderate temperature, and of low density.
+
+00:03:36.800 --> 00:03:39.720
+That is when a gas meets
+
+00:03:39.720 --> 00:03:45.400
+most of the kinetic theory assumptions. Okay,
+let's head to our revision note template,
+
+00:03:45.400 --> 00:03:50.280
+write down the assumptions of kinetic theory in
+the other notes section of that template
+
+00:03:50.280 --> 00:03:55.560
+and then complete question one in B3 knowledge
+questions. Now I know none of you are going to
+
+00:03:55.560 --> 00:04:03.720
+believe this but recently I turned 21. No, I
+turned 40 and as a treat with me and my
+
+00:04:03.720 --> 00:04:07.960
+friends who've been friends since we were at
+university, so that is 22 years ago,
+
+00:04:07.960 --> 00:04:11.400
+We decided we'd save up for holiday and we go
+somewhere posh.
+
+00:04:11.400 --> 00:04:14.520
+So we went on holiday together and we had a right
+old time
+
+00:04:14.520 --> 00:04:18.440
+and two of my friends decided they wanted to try
+diving
+
+00:04:18.440 --> 00:04:23.080
+and part of their diving lessons they talked a
+lot about pressure
+
+00:04:23.080 --> 00:04:28.360
+and it rightly enough reminded me of pressure, a
+physics syllabus, because I'm
+
+00:04:28.360 --> 00:04:32.280
+that much of a sado okay but I'm going to explain
+
+00:04:32.280 --> 00:04:35.320
+pressure to you in terms of diving and you're
+going to
+
+00:04:35.320 --> 00:04:41.880
+really enjoy. Fluid pressure. Well the first
+thing that we need to notice is that fluid can be
+
+00:04:41.880 --> 00:04:53.350
+anything. It can be gases or liquids. So I'm not
+just talking about bodily fluids, I'm not
+
+00:04:53.350 --> 00:04:59.430
+talking about fluids you might drink, I'm talking
+about fluids being gases, so the air around us,
+
+00:04:59.430 --> 00:05:05.830
+or liquids. Because they have fluid particles,
+that means the particles can move around.
+
+00:05:05.830 --> 00:05:12.270
+and when particles can move around they can
+collide with each other and when
+
+00:05:12.270 --> 00:05:19.270
+some things collide with each other they exert a
+force and when a force is
+
+00:05:19.270 --> 00:05:24.070
+exerted in the collision it exerts a pressure and
+that pressure is calculated
+
+00:05:24.070 --> 00:05:29.630
+using pressure equals force over area. Let's have
+a look at this lady diving.
+
+00:05:29.630 --> 00:05:37.230
+see a little water molecule collides with the
+surface of her skin. It exerts a force
+
+00:05:37.230 --> 00:05:44.990
+at a normal, at right angles to her skin and if
+that force is exerted at right angles to
+
+00:05:44.990 --> 00:05:53.310
+her skin that means the pressure is also in the
+direction of right angles to her skin.
+
+00:05:53.310 --> 00:06:03.730
+So any time you're in a fluid, the pressure is at
+right angles to the surface of wherever
+
+00:06:03.730 --> 00:06:04.730
+you are.
+
+00:06:04.730 --> 00:06:08.470
+So you can see we're looking anywhere here.
+
+00:06:08.470 --> 00:06:15.030
+She is experiencing a pressure at right angles to
+any surface in contact with the fluid.
+
+00:06:15.030 --> 00:06:20.870
+And we've got some rather nice little plants here
+and little test tubes.
+
+00:06:20.870 --> 00:06:31.120
+you will see that there's pressure exerted on the
+water inside these test tubes and they're all at
+right angles.
+
+00:06:31.120 --> 00:06:37.120
+What is pressure? Well it has a formula. The
+pressure at the surface of a fluid can be
+calculated using the equation below.
+
+00:06:37.120 --> 00:06:40.120
+And we've got pressure as units of Pascals.
+
+00:06:40.120 --> 00:06:48.120
+And 1 Pascal is equal to 1 Newton per meter
+squared.
+
+00:06:48.120 --> 00:06:53.900
+The force of course has units of Newtons and the
+area has units of meters squared because
+
+00:06:53.900 --> 00:07:00.120
+if you look at an area of something that might be
+one meter, that might be one meter.
+
+00:07:00.120 --> 00:07:04.680
+To calculate the area you do one times one, so
+you do meters times meters, so your unit
+
+00:07:04.680 --> 00:07:06.660
+of area is meters squared.
+
+00:07:06.660 --> 00:07:10.680
+And if you like using an equation triangle, we
+have an equation triangle here where F
+
+00:07:10.680 --> 00:07:11.680
+is on the top.
+
+00:07:11.680 --> 00:07:15.080
+Of course it's got a nice balloon here and I
+thought it'd be quite nice to show the
+
+00:07:15.080 --> 00:07:17.280
+pressure on the surface of this balloon.
+
+00:07:17.280 --> 00:07:23.080
+due to the air particles or the atmospheric
+particles surrounding it are at right angles,
+
+00:07:23.080 --> 00:07:30.760
+remember, our pressure is exerted at right angles
+to the surface of whatever object we're
+
+00:07:30.760 --> 00:07:33.440
+looking at. When we think about a gas, we think
+about
+
+00:07:33.440 --> 00:07:37.960
+these particles and they're randomly moving
+about, you can see them randomly moving about
+
+00:07:37.960 --> 00:07:45.630
+inside this container, but what you don't see
+here is they actually collide with the
+
+00:07:45.630 --> 00:07:52.030
+walls of the container. And that collision of the
+walls of the container is something that creates
+
+00:07:52.030 --> 00:08:00.270
+pressure. And specifically, usually four marks,
+there are four explanations for pressure and
+gases.
+
+00:08:01.150 --> 00:08:08.110
+The first mark always goes to the particles are
+in constant motion in random directions.
+
+00:08:08.110 --> 00:08:13.630
+So that goes back to here. These particles are in
+constant motion in random directions.
+
+00:08:13.630 --> 00:08:19.310
+You can see that. The second mark is that the
+particles collide with the walls of the
+container.
+
+00:08:19.310 --> 00:08:22.510
+And that makes sense, the particles collide with
+the walls of the container.
+
+00:08:24.110 --> 00:08:30.990
+The third mark to explain pressure in gases is
+that the collisions cause a force on the wall.
+
+00:08:32.670 --> 00:08:41.230
+And the final mark is that pressure is equal to
+force over area. What happens if we raise the
+
+00:08:41.230 --> 00:08:46.590
+temperature of this balloon. See it's at 21
+degrees centigrade and we want to raise the
+
+00:08:46.590 --> 00:08:55.950
+temperature to 30 degrees centigrade. Well what
+it does is it speeds up the molecules or the
+
+00:08:55.950 --> 00:09:03.310
+particles. So these particles move with much
+greater speed which means they have greater
+
+00:09:04.030 --> 00:09:14.140
+kinetic energy and their internal energy
+increases as well. And then if you've got greater
+
+00:09:14.140 --> 00:09:19.940
+kinetic energy and they're moving at higher speed
+they have more collisions
+
+00:09:19.940 --> 00:09:23.500
+with the sides because they're moving around much
+quicker and more randomly
+
+00:09:23.500 --> 00:09:29.660
+and more collisions coupled with the fact that
+they're hitting them with a
+
+00:09:29.660 --> 00:09:33.580
+faster speed which means they have more energy
+and more force means that the
+
+00:09:33.580 --> 00:09:39.580
+pressure on the sides is greater so the effect of
+increasing the temperature
+
+00:09:39.580 --> 00:09:49.620
+of a gas means that the molecules speed up or the
+particles speed up, but also the pressure
+
+00:09:49.620 --> 00:09:51.740
+increases as well.
+
+00:09:51.740 --> 00:09:57.300
+I want to take a slight aside here because I
+think there's a derivation you need to learn.
+
+00:09:57.300 --> 00:10:02.340
+It's not confirmed, but I think there is. The
+data book that gives this equation is
+
+00:10:02.340 --> 00:10:08.780
+p equals a third rho v squared. And what it
+really does is it shows that the pressure
+
+00:10:08.780 --> 00:10:14.560
+of a gas is related to the average translational
+speed of the molecules. So if the density
+
+00:10:14.560 --> 00:10:21.040
+of the gas remains constant, the pressure is
+proportional to V squared. The syllabus
+
+00:10:21.040 --> 00:10:26.840
+says that you as a student should understand from
+analysis that the change in momentum
+
+00:10:26.840 --> 00:10:33.880
+of particles due to collisions with a given
+surface gives rise to a pressure in gas.
+
+00:10:33.880 --> 00:10:37.320
+I think we've talked about that already but I
+think there could be a derivation here
+
+00:10:37.320 --> 00:10:42.480
+so let me walk you through this from first
+principles. I want you to consider one molecule
+
+00:10:42.480 --> 00:10:48.480
+of gas inside an empty piston and what it's doing
+is it's bouncing back and forth along
+
+00:10:48.480 --> 00:10:57.820
+this length L inside the piston. When it travels
+towards the piston end it has momentum Mv.
+
+00:10:57.820 --> 00:11:03.040
+At some point it will elastically collide with
+the wall and bounce back in the opposite
+
+00:11:03.040 --> 00:11:08.080
+direction also with momentum mv. If we take the
+direction into account we can
+
+00:11:08.080 --> 00:11:14.140
+see that the change in momentum is 2mv and this
+means using the relationship we
+
+00:11:14.140 --> 00:11:19.660
+found in a2 forces of momentum we can find an
+expression for force as the
+
+00:11:19.660 --> 00:11:25.480
+change in momentum over the change in time and
+that gives an expression of 2mv
+
+00:11:25.480 --> 00:11:31.000
+over delta t. Let's take that further. I want you
+to think of the good old-fashioned
+
+00:11:31.000 --> 00:11:35.920
+equation speed equals distance over time. If we
+rearrange that for time we know
+
+00:11:35.920 --> 00:11:40.840
+that time equals distance over speed and we've
+got this information for the
+
+00:11:40.840 --> 00:11:45.600
+molecule. We know that it travels a distance of
+2l which is there and back
+
+00:11:45.600 --> 00:11:52.100
+inside the piston and it travels a speed of V. So
+the time taken for it to travel
+
+00:11:52.100 --> 00:11:57.920
+to one side and back again is 2l over V and what
+we can do is take that
+
+00:11:57.920 --> 00:12:03.840
+expression for time and put it into the previous
+expression we had for force. You can see at
+
+00:12:03.840 --> 00:12:11.040
+the top we had force equals 2mv over delta t and
+at the bottom let's insert our expression
+
+00:12:11.040 --> 00:12:20.920
+for time. What we now have for the force
+expression is mv squared over l. Stick with me.
+Okay
+
+00:12:20.920 --> 00:12:26.480
+we now have a pretty full expression for force
+and we know because we want to bring
+
+00:12:26.480 --> 00:12:31.860
+pressure into this derivation, the pressure
+equals force over area. So let's put our
+expression
+
+00:12:31.860 --> 00:12:38.160
+for force into force over area. And if you work
+through, you'll get pressure equals mv
+
+00:12:38.160 --> 00:12:46.040
+squared over v. That big V stands for volume, and
+we've got volume is equal to the area
+
+00:12:46.040 --> 00:12:51.840
+over the length of this piston. Now we have an
+expression for pressure, which is mv squared
+
+00:12:51.840 --> 00:12:57.800
+over V volume, we need to try and bring density
+into this. And of course we'll know from GCSE
+
+00:12:57.800 --> 00:13:02.660
+that density equals mass over volume. And instead
+of using the m over V in the pressure
+
+00:13:02.660 --> 00:13:10.400
+equation, we can just insert density there. So
+now we have a much more compact expression
+
+00:13:10.400 --> 00:13:17.160
+for pressure and its pressure equals density
+times velocity squared. We're nearly there
+
+00:13:17.160 --> 00:13:22.640
+but not quite. The expression we've got for
+pressure so far, which is density times velocity
+
+00:13:22.640 --> 00:13:29.680
+squared, only looks as in one direction. We've
+got one axis of this three-dimensional space,
+
+00:13:29.680 --> 00:13:34.840
+and what we want to do is account for the
+pressure over three dimensions, not one. So
+
+00:13:34.840 --> 00:13:41.120
+that's why we add that factor of a third into
+there. So our final expression for pressure,
+
+00:13:41.120 --> 00:13:46.660
+shown in the data booklet is pressure equals one-
+third density times velocity
+
+00:13:46.660 --> 00:13:51.500
+squared and that shows us the pressure is
+directly proportional to the square
+
+00:13:51.500 --> 00:13:56.840
+of the average speed of the particles and
+therefore the temperature of the
+
+00:13:56.840 --> 00:14:01.920
+gas. That's probably the hardest derivation I've
+come across in IB
+
+00:14:01.920 --> 00:14:05.940
+physics so far. Again I don't know if you're
+gonna have to derive it in the
+
+00:14:05.940 --> 00:14:10.960
+exam. We haven't had enough exams to tell yet but
+I suggest that this is
+
+00:14:10.960 --> 00:14:16.080
+one that would be good for you to memorise. Okay,
+head to your revision note template,
+
+00:14:16.080 --> 00:14:19.540
+write down what I've told you to write down on
+the screen and I would also include the
+
+00:14:19.540 --> 00:14:24.220
+derivation for the formula we've just talked
+about. Next we're going to look at learning
+
+00:14:24.220 --> 00:14:30.620
+objective B3.4, define the amount of a substance
+and we're going to look at moles and avogadroes
+
+00:14:30.620 --> 00:14:40.280
+constant. So it all begins with something called
+avogadroes constant. One mole of a substance
+
+00:14:40.280 --> 00:14:43.400
+contains the same number of particles
+
+00:14:43.400 --> 00:14:46.360
+as one mole of any other substance.
+
+00:14:46.360 --> 00:14:51.360
+So we define a mole as a certain number of
+particles
+
+00:14:52.000 --> 00:14:53.400
+in a substance.
+
+00:14:53.400 --> 00:14:55.080
+And the particles can be anything.
+
+00:14:55.080 --> 00:14:58.400
+They can be atoms, molecules, or ions.
+
+00:14:59.660 --> 00:15:01.240
+Now we said it's a certain number of atoms.
+
+00:15:01.240 --> 00:15:05.160
+Well, that particular number is Avogadro's
+constant.
+
+00:15:05.160 --> 00:15:07.340
+And the number of atoms, molecules, or ions
+
+00:15:07.340 --> 00:15:11.620
+in one mole of a substance is called the Avogadro
+constant.
+
+00:15:11.620 --> 00:15:16.620
+Its value is 6.02 times 10 to the 23 atoms,
+molecules,
+
+00:15:17.580 --> 00:15:20.680
+or ions, ions per mole,
+
+00:15:20.680 --> 00:15:23.380
+which is this big huge number down here below.
+
+00:15:23.380 --> 00:15:26.320
+So in one mole of any substance,
+
+00:15:26.320 --> 00:15:31.320
+it has exactly that amount of molecules, atoms,
+or ions.
+
+00:15:32.440 --> 00:15:33.580
+Any substance.
+
+00:15:33.580 --> 00:15:44.900
+So if we look at one mole of sulfur, it has 6.02
+times 10 to the 23 atoms in it.
+
+00:15:44.900 --> 00:15:53.780
+And if we look at one mole of sulfur dioxide, it
+has 6.02 times 10 to the 23 molecules of
+
+00:15:53.780 --> 00:15:55.220
+that inside it.
+
+00:15:55.220 --> 00:15:59.340
+So one mole has that number of molecules, atoms,
+or ion inside it.
+
+00:15:59.340 --> 00:16:04.120
+And that number is called the Avatogadro's
+constant.
+
+00:16:04.120 --> 00:16:11.400
+The molar mass is how much one mole of that
+substance weighs.
+
+00:16:11.400 --> 00:16:12.760
+Now why do we use a molar mass?
+
+00:16:12.760 --> 00:16:18.440
+Well because the actual masses of atoms,
+molecules and ions are too small to be useful in
+any
+
+00:16:18.440 --> 00:16:20.280
+form of calculation.
+
+00:16:20.280 --> 00:16:24.040
+So for chemical amounts we measure that in moles.
+
+00:16:24.040 --> 00:16:26.820
+And the mole is an SI base unit.
+
+00:16:26.820 --> 00:16:31.280
+We came across that in topic one, measurements
+and uncertainties.
+
+00:16:31.280 --> 00:16:39.960
+a base unit, one of the seven base units, and its
+symbol is M-O-L. The relative atomic
+
+00:16:39.960 --> 00:16:47.440
+mass in grams is how much one mole of a substance
+weighs. So we know that one mole of a substance
+
+00:16:47.440 --> 00:16:54.880
+has 6.02 times 10 to the 23 atoms molecules or
+ions in it, but each substance will weigh
+
+00:16:54.880 --> 00:17:01.840
+a different amount having that amount of atoms.
+So for example, oxygen, one mole of
+
+00:17:01.840 --> 00:17:10.000
+it will weigh 32 grams, calcium carbonate, the
+same number of particles but will weigh
+
+00:17:10.000 --> 00:17:17.200
+a different amount, it will weigh 100 grams. Now
+the number of moles, that's probably the
+
+00:17:17.200 --> 00:17:24.600
+easiest for us to measure the mass of a substance
+in. So we use the number of moles in a small
+
+00:17:24.600 --> 00:17:30.440
+n and you can see that in the data booklet below
+that we do see that small n number
+
+00:17:30.440 --> 00:17:36.080
+and two of the formulae. And we can calculate the
+number of moles when given the total number
+
+00:17:36.080 --> 00:17:42.680
+of atoms, that's the big N, in a sample of a
+substance. What we simply do is we say,
+
+00:17:42.680 --> 00:17:50.000
+we'll say we've got a total number of atoms,
+let's say 12.04 x 10 to the 23 atoms, we divide
+
+00:17:50.000 --> 00:17:55.800
+it by Avogadro's constant and that tells us how
+many moles we have and that's the small
+
+00:17:55.800 --> 00:18:03.080
+n. So it's a very simple formula we'd use there
+first. Other example calculations involve
+
+00:18:03.080 --> 00:18:09.960
+calculating the mass of a substance when giving
+the number of moles and molar mass. So for
+
+00:18:09.960 --> 00:18:15.480
+example calculate the mass of 0.1 moles of iron
+and we know that the molar mass of iron
+
+00:18:15.480 --> 00:18:24.120
+is 56 grams. Well that's a simple ratio n times
+56 equals 5.6 grams. Okay n is 0.1 so 0.1 times
+
+00:18:24.120 --> 00:18:30.400
+56 is 5.6. Another example calculation would be
+you can calculate the number of atoms or
+
+00:18:30.400 --> 00:18:35.760
+molecules using the number of moles in the molar
+mass. So for example, calculate the
+
+00:18:35.760 --> 00:18:42.080
+amount of water molecules in 36 grams of water
+and we know that one molar mass of water
+
+00:18:42.080 --> 00:18:48.200
+is 18 grams. Well, 36 divided by 18 tells us that
+there's two moles of the substance
+
+00:18:48.200 --> 00:18:56.520
+there. So 2 times the number of particles in two
+moles is Avogadro's constant, so it's
+
+00:18:56.520 --> 00:19:05.400
+12.04 times 10 to the 23 molecules. Really don't
+overthink this. It is basic maths and
+
+00:19:05.400 --> 00:19:14.200
+the overriding concept is that one mole of any
+substance has 6.02 times 10 to the 23
+
+00:19:14.200 --> 00:19:19.960
+within it and that is Avogadro's constant. Okay,
+head to your erosion note template and write down
+
+00:19:19.960 --> 00:19:25.720
+the definition for the amount of a substance and
+include Avogadro's constant in that definition.
+
+00:19:25.720 --> 00:19:29.960
+You'll probably want to note down a couple of the
+formula that we talked about in the last section
+
+00:19:29.960 --> 00:19:36.890
+too, so make sure that's all included and we'll
+head on to the next section. In the previous
+topic
+
+00:19:36.890 --> 00:19:42.650
+we were talking about molecular behavior and we
+were looking at a microscopic view of gas,
+
+00:19:42.650 --> 00:19:45.410
+so we're talking about the molecules.
+
+00:19:45.410 --> 00:19:46.730
+If we look at gas in another way,
+
+00:19:46.730 --> 00:19:49.330
+if we look at the macroscopic view,
+
+00:19:49.330 --> 00:19:54.130
+so looking at it as a body of gas from a bigger
+scale,
+
+00:19:54.130 --> 00:19:56.970
+there are only four main microscopic quantities
+
+00:19:56.970 --> 00:20:00.170
+that can be varied within an ideal gas.
+
+00:20:00.170 --> 00:20:02.490
+If you take a gas and put it in a container,
+
+00:20:02.490 --> 00:20:05.010
+you can change the pressure of the gas,
+
+00:20:05.010 --> 00:20:09.450
+the volume of the gas, the temperature of the
+gas,
+
+00:20:09.450 --> 00:20:12.530
+or you can add some more gas or take some gas
+away
+
+00:20:12.530 --> 00:20:15.850
+And ultimately, what you would do is you'd change
+the number of moles of gas there.
+
+00:20:17.650 --> 00:20:21.290
+It's kind of important you understand how the
+ideal gas equation is derived
+
+00:20:21.290 --> 00:20:27.610
+because it's made up of three different laws, gas
+laws and physics that you will have studied in
+school.
+
+00:20:28.050 --> 00:20:30.370
+And the first of these laws is Boyle's law.
+
+00:20:30.850 --> 00:20:33.370
+I'm absolutely sure you've seen this in class.
+
+00:20:33.370 --> 00:20:35.250
+You've probably even done an experiment.
+
+00:20:35.850 --> 00:20:40.850
+And what Boyle's law does is that it investigates
+how the pressure of a gas
+
+00:20:40.850 --> 00:20:46.810
+affects the volume of a gas. Now for that to be a
+fair test, we have to keep the other
+
+00:20:46.810 --> 00:20:52.770
+two of the four variables constant. So
+temperature and the number of moles of the gas
+have to
+
+00:20:52.770 --> 00:20:58.690
+stay exactly the same. To investigate this
+experiment, we would use equipment looking
+
+00:20:58.690 --> 00:21:05.170
+a little like this. We have a hand pump which is
+used to increase the pressure to the volume
+
+00:21:05.170 --> 00:21:13.550
+of air inside the scale here and what we find is
+that as the pressure of the gas increases
+
+00:21:13.550 --> 00:21:20.490
+the volume of the air decreases. This volume here
+gets smaller. If you were to plot a graph
+
+00:21:20.490 --> 00:21:25.750
+it would look a little like this graph up here
+and we can see that the two are inversely
+
+00:21:25.750 --> 00:21:33.770
+proportional. P is proportional to 1 over V. If
+we take that a little bit further and
+
+00:21:33.770 --> 00:21:39.490
+look at putting that into a mathematical
+equation, we can then say that if you
+
+00:21:39.490 --> 00:21:47.010
+plot a graph of P versus 1 over V, we can see
+that they are proportional. That
+
+00:21:47.010 --> 00:21:50.610
+also means that we can come up with a
+mathematical formula at the end of P
+
+00:21:50.610 --> 00:21:56.570
+times V equals K, which is a constant. Let's keep
+this relationship in mind and
+
+00:21:56.570 --> 00:21:59.170
+and look on to Charles's law.
+
+00:22:00.370 --> 00:22:06.570
+Charles's law is the investigation of how
+temperature affects the volume of a gas.
+
+00:22:07.570 --> 00:22:13.170
+To do that and to keep it a fair test, we need to
+make sure that pressure and the number of moles
+remains constant.
+
+00:22:13.170 --> 00:22:17.170
+The equipment you might use to investigate
+Charles's law is shown here.
+
+00:22:17.170 --> 00:22:22.970
+You would start off with some very icy water and
+have a column of air inside a capillity tube.
+
+00:22:23.570 --> 00:22:26.170
+You would measure the temperature of the water
+and note that down.
+
+00:22:26.570 --> 00:22:32.970
+As you heat the gas you would notice that the
+volume of this column of air would increase.
+
+00:22:32.970 --> 00:22:38.570
+This tells you that as the temperature increases,
+the volume of the gas increases.
+
+00:22:38.570 --> 00:22:43.570
+So they are, what is known as in maths, directly
+proportional.
+
+00:22:43.570 --> 00:22:46.570
+You can see that we've put a graph of volume
+against temperature
+
+00:22:46.570 --> 00:22:50.570
+and we have a nice straight line through the
+origin.
+
+00:22:50.570 --> 00:22:57.050
+In mass you can see V is proportional to T, but
+you can also take that to another level
+
+00:22:57.050 --> 00:23:01.690
+and express the relationship as V divided by T is
+equal to K.
+
+00:23:01.690 --> 00:23:07.930
+Let's bear that relationship in mind as well and
+move on to the Gay-Lussac law.
+
+00:23:07.930 --> 00:23:13.210
+The Gay-Lussac law investigates how temperature
+affects the pressure of a gas, and to do that
+
+00:23:13.210 --> 00:23:18.530
+to make it a fair test we have to keep volume and
+the number of moles of the gas constant.
+
+00:23:18.530 --> 00:23:23.430
+can see from this picture that as you increase
+the temperature of the gas the
+
+00:23:23.430 --> 00:23:28.570
+molecules will move at a greater speed. They'll
+have greater velocity vectors. As
+
+00:23:28.570 --> 00:23:32.170
+the molecules collide with the side of the
+container, which is the property that
+
+00:23:32.170 --> 00:23:36.290
+dictates what the pressure of the gas is, those
+collisions will have a greater
+
+00:23:36.290 --> 00:23:41.130
+force. Thus as the temperature increases the
+pressure of the gas
+
+00:23:41.130 --> 00:23:46.110
+increases. Again in mathematics we can see that
+pressure is proportional to
+
+00:23:46.110 --> 00:23:50.950
+temperature. We can further relate that
+relationship down to pressure divided
+
+00:23:50.950 --> 00:23:55.510
+by temperature equals K. So we have three laws
+each with their own mathematical
+
+00:23:55.510 --> 00:24:01.190
+relationship. If you remember this was Boyle's
+law PV equals K. This was
+
+00:24:01.190 --> 00:24:07.310
+Charles's law V over T equals K and this was the
+Gay-Lussac law P over T
+
+00:24:07.310 --> 00:24:14.590
+equals K. They're all equal to a constant. So we
+can merge those three equations
+
+00:24:14.590 --> 00:24:24.130
+together. PV equals K, PV equals K. V over T,
+that was over there, V over T
+
+00:24:24.130 --> 00:24:32.030
+equals K and P over T, P over T equals K. We're
+halfway to the ideal gas equation
+
+00:24:32.030 --> 00:24:39.050
+here. Those three laws have merged together to
+create a relationship and we
+
+00:24:39.050 --> 00:24:44.270
+haven't included the number of moles in our
+relationship here so I'd like to do
+
+00:24:44.270 --> 00:24:49.370
+that now. So we add in to the ideal gas equation
+the number of moles which we
+
+00:24:49.370 --> 00:24:53.570
+kept constant throughout and we and ultimately
+what we've done is we've
+
+00:24:53.570 --> 00:24:59.290
+changed our constant into n and r which are two
+constants by ideal gas equation.
+
+00:24:59.290 --> 00:25:05.750
+This equation is really really important you're
+asked to use it many times if you
+
+00:25:05.750 --> 00:25:12.050
+use that equation in any form either in the top
+form here or the bottom form
+
+00:25:12.050 --> 00:25:18.170
+here but to use degrees Celsius your answers will
+be incorrect. It is really
+
+00:25:18.170 --> 00:25:22.970
+important that you convert temperature into
+Kelvin in all calculations. We have
+
+00:25:22.970 --> 00:25:27.590
+the three mathematical expressions for Boyle's
+law and we have the final ideal
+
+00:25:27.590 --> 00:25:31.970
+gas equation. Write them down in your formulae
+section of your revision note
+
+00:25:31.970 --> 00:25:38.870
+template. Note the conditions. So for example
+with Boyle's law pressure
+
+00:25:38.870 --> 00:25:44.350
+varies, volume varies, but temperature and number
+of molecules has to say the same.
+
+00:25:44.350 --> 00:25:50.230
+I'd head to your graph section and draw graphs
+for each gas law, showing whether
+
+00:25:50.230 --> 00:25:55.550
+they are inversely proportional or directly
+proportional. And finally head to
+
+00:25:55.550 --> 00:26:01.430
+knowledge questions and complete questions 2 to
+12. This next learning
+
+00:26:01.430 --> 00:26:06.190
+objective of sketching and interpreting pressure
+volume diagrams is a starter
+
+00:26:06.190 --> 00:26:12.230
+into the high level stuff in the next topic, but
+it's still in the standard level specification.
+
+00:26:12.230 --> 00:26:16.690
+So we're going to look at pressure volume
+diagrams in a little bit more detail now.
+
+00:26:16.690 --> 00:26:21.530
+If we think back to Boyle's law, we kept the
+temperature of a gas constant and the number
+
+00:26:21.530 --> 00:26:25.710
+of moles of a gas constant, and what we've failed
+were pressure and volume. We drew a
+
+00:26:25.710 --> 00:26:29.990
+graph of pressure and volume and found that they
+were inversely proportional. And if
+
+00:26:29.990 --> 00:26:34.630
+you look at the bottom blue line here, that's the
+line you'd typically see when
+
+00:26:34.630 --> 00:26:40.310
+you think of Boyle's law. However, if you
+repeated Boyle's law with the same gas and
+
+00:26:40.310 --> 00:26:45.730
+the same number of moles at different
+temperatures, you'd see that line of
+
+00:26:45.730 --> 00:26:51.250
+impressed proportion move progressively up away
+from the axes. Each of these
+
+00:26:51.250 --> 00:26:56.190
+lines that I've shown on the graph, the blue
+lines, have the same temperature of
+
+00:26:56.190 --> 00:27:01.910
+gas but as the temperature increases each line
+moves progressively away. These
+
+00:27:01.910 --> 00:27:08.510
+lines are called isotherms. Isotherm means same,
+theorem means temperature, same
+
+00:27:08.510 --> 00:27:14.510
+temperature. So if you're looking at a PV diagram
+and one of the processes that
+
+00:27:14.510 --> 00:27:20.230
+that ideal gas is going through is that it
+increases in temperature, you can
+
+00:27:20.230 --> 00:27:26.350
+expect to see the isotherms stay in indirectly
+proportional but moving away
+
+00:27:26.350 --> 00:27:31.350
+from the axis as shown. When you think about an
+ideal gas and we think about
+
+00:27:31.350 --> 00:27:35.990
+the four microscopic properties, pressure,
+volume, temperature and number of moles.
+
+00:27:35.990 --> 00:27:42.430
+There are transformations that can take place of
+that ideal gas and when these
+
+00:27:42.430 --> 00:27:47.950
+transformations take place work is either done on
+the gas or work is
+
+00:27:47.950 --> 00:27:54.070
+released by the gas and there are three main
+types of transformations or
+
+00:27:54.070 --> 00:28:00.550
+processes that an ideal gas can undertake and
+they can be represented on
+
+00:28:00.550 --> 00:28:09.430
+a PV diagram. So the first process we'll look at
+is isothermal. Isothermal means same temperature.
+
+00:28:09.430 --> 00:28:15.530
+That means a transformation is taking place
+within this ideal gas and that gas is doing
+
+00:28:15.530 --> 00:28:23.590
+work or it's releasing work into the surroundings
+but it's doing it at the same temperature.
+
+00:28:23.590 --> 00:28:28.110
+transformation occurs at the same temperature and
+that's called an
+
+00:28:28.110 --> 00:28:36.670
+isothermal process and it's represented by
+following along the isotherm. So if an
+
+00:28:36.670 --> 00:28:42.990
+isothermal transformation takes place of an ideal
+gas you will see movement
+
+00:28:42.990 --> 00:28:50.430
+along an isotherm. If the gas is isothermally
+expanding then the gas is
+
+00:28:50.430 --> 00:28:56.830
+doing work and an equivalent amount of heat is
+absorbed into the gas to maintain the temperature
+
+00:28:56.830 --> 00:29:06.230
+constant. But if the gas is compressing
+isothermally then the gas releases heat to the
+surroundings
+
+00:29:06.230 --> 00:29:11.550
+and it releases heat outside to make sure that
+everything stays constant.
+
+00:29:11.550 --> 00:29:16.150
+The next transformation we should consider with
+an ideal gas is transforming the gas
+
+00:29:16.150 --> 00:29:21.030
+but keeping the pressure constant. And those
+processes are called isobaric.
+
+00:29:21.030 --> 00:29:27.270
+Isobaric means the same and baric, well baric is
+a measure of temperature in the atmosphere
+
+00:29:27.270 --> 00:29:33.310
+isn't it? So same pressure. In this isobaric
+process the pressure remains
+
+00:29:33.310 --> 00:29:41.070
+constant. So if a gas changes state in an
+isobaric process then to represent that on
+
+00:29:41.070 --> 00:29:50.990
+a PV diagram, the line has to go horizontally.
+Pressure is on the y-axis of a PV diagram,
+
+00:29:50.990 --> 00:29:57.430
+and to keep pressure the same number or constant,
+then any movement has to be horizontal. When
+
+00:29:57.430 --> 00:30:02.950
+the volume increases at constant pressure, the
+temperature is also going to increase
+
+00:30:02.950 --> 00:30:08.190
+according to the ideal gas law. So that's why
+when you move horizontally from state
+
+00:30:08.190 --> 00:30:13.670
+to state to state and keeping an isobaric
+process, you'll notice that it goes up the
+
+00:30:13.670 --> 00:30:19.750
+isotherms which means the temperature increases.
+And this process is typical in situations
+
+00:30:19.750 --> 00:30:25.830
+where the gas is allowed to expand or compress at
+atmospheric pressure. It will either increase
+
+00:30:25.830 --> 00:30:30.590
+in temperature or decrease in temperature
+depending on how many isotherms it crosses
+
+00:30:30.590 --> 00:30:34.510
+in the process. The final process or
+transformation we want
+
+00:30:34.510 --> 00:30:40.950
+to consider in an ideal gas is an isovolumetric
+process, sometimes called isochoric, and this
+
+00:30:40.950 --> 00:30:47.030
+involves no change in volume. That means that any
+representation on the pressure-volume
+
+00:30:47.030 --> 00:30:52.790
+diagram is represented by a vertical line where
+the volume stays constant. And you can
+
+00:30:52.790 --> 00:30:59.670
+see that by following that vertical line through
+an isovolumetric process, then the gas as
+
+00:30:59.670 --> 00:31:03.870
+as it undergoes this transition is going to
+increase in pressure.
+
+00:31:03.870 --> 00:31:11.350
+And that vertical line shows the isovolumetric of
+the isochoric process.
+
+00:31:11.350 --> 00:31:17.710
+Any heat added to a gas at a constant volume will
+result in an increase in pressure following
+
+00:31:17.710 --> 00:31:22.830
+the relationship that we found in the Galus-Sach
+law.
+
+00:31:22.830 --> 00:31:27.950
+It's time for you to head to your revision note
+template, go to the comment graphs section
+
+00:31:27.950 --> 00:31:36.490
+and draw those three common graphs for isobaric,
+isovolumetric and isothermal processes.
+
+00:31:36.490 --> 00:31:42.690
+In topic B1, we looked in detail at the concept
+of internal energy. I want to expand on this
+
+00:31:42.690 --> 00:31:50.150
+a little bit further by looking at internal
+energy of an ideal monatomic gas. Ideal gas
+
+00:31:50.150 --> 00:31:55.750
+is a gas that follows the kinetic theory
+assumptions and a monatomic gas means it's
+
+00:31:55.750 --> 00:32:03.050
+only got one type of atom or one type of
+molecule. It's going to lead us into an equation
+that
+
+00:32:03.050 --> 00:32:09.230
+you'll have to use as part of this topic and it's
+pretty detailed to get there so stick
+
+00:32:09.230 --> 00:32:13.910
+with me in this last section of the tutorial.
+When we're looking at the internal energy
+
+00:32:13.910 --> 00:32:19.210
+of an ideal gas we have to take the kinetic
+theory assumptions into account and we have
+
+00:32:19.210 --> 00:32:24.150
+to assume the following. We have to assume that
+our ideal gas has a large number of
+
+00:32:24.150 --> 00:32:29.510
+perfectly elastic spheres moving in random
+motion, we have to assume there's no forces
+
+00:32:29.510 --> 00:32:33.630
+between the molecules, there's no work that needs
+to be done to change the position of
+
+00:32:33.630 --> 00:32:39.870
+a molecule, and what that means is, is that the
+molecules therefore have no potential
+
+00:32:39.870 --> 00:32:47.350
+energy. Let me repeat that. An ideal gas, when
+you're considering internal energy, has
+
+00:32:47.350 --> 00:32:54.790
+no potential energy. So what we previously said
+was a definition of internal energy was
+
+00:32:54.790 --> 00:33:00.590
+internal energy is the sum of both potential and
+the randomly distributed kinetic energies
+
+00:33:00.590 --> 00:33:06.010
+of the particles in the body. That's the internal
+energy of a real gas or of a solid
+
+00:33:06.010 --> 00:33:13.390
+or a liquid. It's not the internal energy of an
+ideal gas. Because there is no potential
+
+00:33:13.390 --> 00:33:21.070
+energy in an ideal gas, then the internal energy
+of an ideal gas is defined as the sum
+
+00:33:21.070 --> 00:33:26.790
+of the randomly distributed kinetic energies of
+the particle in a body. Can you see that
+
+00:33:26.790 --> 00:33:31.350
+I've taken out potential energy from that
+definition? This is quite often a thing that
+
+00:33:31.350 --> 00:33:37.430
+students would miss and it's very key in first of
+all doing calculations of internal
+
+00:33:37.430 --> 00:33:41.910
+energy with real gases and ideal gases, but also
+just those simple marks and getting
+
+00:33:41.910 --> 00:33:48.310
+the definition is correct. In B1 we found an
+expression for the average
+
+00:33:48.310 --> 00:33:53.270
+kinetic energy of the molecules of a gas and we
+found that it was proportional to the temperature
+
+00:33:53.270 --> 00:33:58.030
+in Kelvin. You'll remember this expression was
+the average kinetic energy, and that's
+
+00:33:58.030 --> 00:34:04.110
+EK with a little bar above it, is equal to 3 over
+2 kT. But we want to know what the
+
+00:34:04.110 --> 00:34:10.210
+total kinetic energy of these molecules are
+because when we're calculating the internal
+
+00:34:10.210 --> 00:34:16.210
+energy of an ideal gas, we're not looking at the
+average kinetic energy of the molecules,
+
+00:34:16.210 --> 00:34:22.310
+we're looking at the total kinetic energy of the
+molecules. So to adapt our equation
+
+00:34:22.310 --> 00:34:29.490
+for average kinetic energy into total, we have to
+multiply it by the number of molecules
+
+00:34:29.490 --> 00:34:36.250
+that are inside that gas. So you'll notice our
+lowest equation on the slide here is
+
+00:34:36.250 --> 00:34:43.470
+one mole of gas contains Na molecules. So the
+total kinetic energy is E total equals
+
+00:34:43.470 --> 00:34:50.710
+three over two and we multiply it by Avogadro's
+constant, kT, and that then simplifies down
+
+00:34:50.710 --> 00:34:59.510
+to three over two RT, where R is the gas constant
+and is equal to NaK. That means we
+
+00:34:59.510 --> 00:35:05.270
+now have an expression for the internal energy of
+an ideal gas because an ideal gas
+
+00:35:05.270 --> 00:35:13.710
+is only concerned with kinetic energy. If you are
+ever asked to calculate or determine
+
+00:35:13.710 --> 00:35:20.390
+the internal energy of an ideal gas, then this is
+your expression. And we're finished
+
+00:35:20.390 --> 00:35:26.470
+B3. What I'd like you to do before we finish off
+completely is write down the definition
+
+00:35:26.470 --> 00:35:31.310
+of internal energy for an ideal gas in your
+revision note template in the definition
+
+00:35:31.310 --> 00:35:36.810
+section. Head to the Equation section and write
+down the equation for internal energy
+
+00:35:36.810 --> 00:35:43.110
+of an ideal gas. And finally, complete questions
+13 to 15 in the knowledge questions. I'll
+
+00:35:43.110 --> 00:35:44.350
+see you in step 2.
+

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 313" role="img" aria-labelledby="title desc">
+<title id="title">A heating curve for pure water at atmospheric pressure</title><desc id="desc">With steady heating, temperature rises within a phase, stays at 0 °C during melting and stays at 100 °C during boiling. The horizontal lengths in this sketch are schematic.</desc>
+<defs><marker id="tip" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0L10 5L0 10" fill="#222"/></marker></defs>
+<rect width="680" height="313" fill="#fff"/><g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#1c1c1c">
+<text x="20" y="24" font-size="17" font-weight="600" fill="#1c1c1c">Temperature / °C</text>
+<path stroke="#222" stroke-width="2" fill="none" d="M71 40V243H640"/>
+<line x1="71" y1="201" x2="201" y2="201" stroke="#aaa" stroke-width="1" stroke-dasharray="4 4" fill="none"/><line x1="71" y1="89" x2="487" y2="89" stroke="#aaa" stroke-width="1" stroke-dasharray="4 4" fill="none"/>
+<text x="59" y="206" text-anchor="end">0</text><text x="59" y="94" text-anchor="end">100</text>
+<path d="M83 232 L126 201 H219 L348 89 H509 L565 43" stroke="#141414" stroke-width="4" fill="none" stroke-linejoin="round"/>
+<text x="172" y="187" text-anchor="middle" font-size="17" font-weight="600" fill="#1c1c1c">Melting</text><text x="426" y="75" text-anchor="middle" font-size="17" font-weight="600" fill="#1c1c1c">Boiling</text>
+<text x="80" y="189" font-size="14" fill="#444">Ice</text><text x="268" y="169" font-size="14" fill="#444">Liquid water</text><text x="575" y="51" font-size="14" fill="#444">Steam</text>
+<text x="640" y="271" text-anchor="end">Energy supplied / J</text>
+<text x="72" y="300" font-size="14" fill="#444">One atmosphere. Horizontal distances are schematic.</text><path fill="#222" d="M0 0L-9 -4L-9 4Z" transform="translate(640 243) rotate(0)"/></g></svg>

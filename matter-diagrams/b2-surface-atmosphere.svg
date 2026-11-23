@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 350" role="img" aria-labelledby="title desc">
+<title id="title">Radiation balance in a one-layer atmosphere</title><desc id="desc">In a radiation-only model the surface absorbs 200 W m⁻² of sunlight plus 200 W m⁻² of downward infrared. It emits 400 W m⁻² to the layer, which emits 200 up to space and 200 down to the surface.</desc>
+<defs><marker id="tip" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0L10 5L0 10" fill="#222"/></marker></defs>
+<rect width="680" height="350" fill="#fff"/><g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#1c1c1c">
+<text x="24" y="26" font-size="17" font-weight="600" fill="#1c1c1c">Mean fluxes in W m⁻²</text>
+<text x="26" y="69" font-size="14" fill="#444">Space</text>
+<rect x="27" y="125" width="626" height="57" rx="6" fill="#e9edf0" stroke="#777"/>
+<text x="39" y="161" font-size="17" font-weight="600" fill="#1c1c1c">Atmosphere</text>
+<rect x="27" y="274" width="626" height="35" rx="4" fill="#dededb" stroke="#777"/>
+<text x="39" y="296" font-size="17" font-weight="600" fill="#1c1c1c">Ground</text>
+<path stroke="#222" stroke-width="3" fill="none" d="M200 61V268" stroke-dasharray="7 4"/><text x="210" y="77">Sunlight</text><text x="210" y="99" font-size="17" font-weight="600" fill="#1c1c1c">200</text>
+<path stroke="#222" stroke-width="3" fill="none" d="M326 270V187"/><text x="337" y="219" font-size="17" font-weight="600" fill="#1c1c1c">400</text><text x="337" y="243" font-size="14" fill="#444">Surface IR</text>
+<path stroke="#222" stroke-width="3" fill="none" d="M489 121V52"/><text x="500" y="72" font-size="17" font-weight="600" fill="#1c1c1c">200</text><text x="500" y="94" font-size="14" fill="#444">IR to space</text>
+<path stroke="#222" stroke-width="3" fill="none" d="M489 185V269"/><text x="500" y="219" font-size="17" font-weight="600" fill="#1c1c1c">200</text><text x="500" y="242" font-size="14" fill="#444">IR to ground</text>
+<text x="27" y="338" font-size="14" fill="#444">The model layer transmits sunlight, absorbs all surface IR and emits equally up and down.</text><path fill="#222" d="M0 0L-9 -4L-9 4Z" transform="translate(200 268) rotate(90)"/><path fill="#222" d="M0 0L-9 -4L-9 4Z" transform="translate(326 187) rotate(-90)"/><path fill="#222" d="M0 0L-9 -4L-9 4Z" transform="translate(489 52) rotate(-90)"/><path fill="#222" d="M0 0L-9 -4L-9 4Z" transform="translate(489 269) rotate(90)"/></g></svg>

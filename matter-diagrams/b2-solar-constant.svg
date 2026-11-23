@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 308" role="img" aria-labelledby="title desc">
+<title id="title">The area that intercepts sunlight and the surface over which it is averaged</title><desc id="desc">Parallel rays hit a circular silhouette of area πR². Spreading the captured power SπR² over a globe of area 4πR² gives a global mean of S/4.</desc>
+<defs><marker id="tip" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0L10 5L0 10" fill="#222"/></marker></defs>
+<rect width="680" height="308" fill="#fff"/><g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#1c1c1c">
+<text x="174" y="31" text-anchor="middle" font-size="17" font-weight="600" fill="#1c1c1c">Sunlight intercepted</text><text x="491" y="31" text-anchor="middle" font-size="17" font-weight="600" fill="#1c1c1c">Mean over the whole surface</text>
+<line x1="340" y1="50" x2="340" y2="222" stroke="#ddd"/>
+<circle cx="206" cy="132" r="59" fill="#eceef1" stroke="#222" stroke-width="2"/><path d="M206 73A59 59 0 0 1 206 191Q224 132 206 73" fill="#cbd0d4"/>
+<path stroke="#222" stroke-width="3" fill="none" d="M38 91H157 M38 116H143 M38 142H143 M38 169H155"/>
+<circle cx="204" cy="132" r="2" fill="#222"/><path stroke="#222" stroke-width="2" fill="none" d="M204 132L246 91"/><text x="226" y="132" font-size="14" fill="#444">R</text>
+<text x="81" y="199" text-anchor="middle" font-size="14" fill="#444">Parallel rays</text>
+<circle cx="492" cy="132" r="60" fill="#f2f3f4" stroke="#222" stroke-width="2"/><ellipse cx="492" cy="132" rx="24" ry="60" stroke="#888" fill="none"/>
+<ellipse cx="492" cy="132" rx="60" ry="16" stroke="#888" fill="none"/><path d="M440 103Q492 128 544 103 M440 162Q492 137 544 162" stroke="#aaa" fill="none"/>
+<text x="178" y="241" text-anchor="middle">Intercepting area = πR²</text><text x="492" y="241" text-anchor="middle">Surface area = 4πR²</text>
+<text x="340" y="280" text-anchor="middle" font-size="17" font-weight="600" fill="#1c1c1c">Mean incoming sunlight = (S × πR²) / (4πR²) = S/4</text><path fill="#222" d="M0 0L-9 -4L-9 4Z" transform="translate(157 91) rotate(0)"/><path fill="#222" d="M0 0L-9 -4L-9 4Z" transform="translate(143 116) rotate(0)"/><path fill="#222" d="M0 0L-9 -4L-9 4Z" transform="translate(143 142) rotate(0)"/><path fill="#222" d="M0 0L-9 -4L-9 4Z" transform="translate(155 169) rotate(0)"/></g></svg>
